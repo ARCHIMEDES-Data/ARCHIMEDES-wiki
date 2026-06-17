@@ -1,0 +1,28 @@
+
+site_name: ARCHIMEDES User Support Documentation
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Home: index.md
+
+  - Data Contribution: 
+      - Getting started: getting-started.md
+      - Establish a Data Contribution Agreement (DCA): dca.md
+      - Account Creation: account-creation.md
+      - Create a new project and contribute data: create-project.md
+
+  - Portal Navigation: data-portal.md
+  - Data Transfer: transferring-data.md
+  - Data Access: data-access.md
+  - Data Search: search-data.md
+  - Analytical Tools: processing-tools.md
+  - Data Curation: data-curation.md
+  - Data Release: data-release.md
