@@ -17,6 +17,127 @@ The data transfer will fall into three categories:
 * Large Datasets involve higher data volumes that are more efficiently transferred in bulk using secure file transfer (SFTP), typically following data preparation steps to ensure integrity and performance. `size TBD` 
 * Custom Assisted Transfer is available for more complex or specialized requirements, with support from the ARCHIMEDES team.
 
-The sections below outline the recommended workflows and tools for each type of data transfer. Examples are provided at the en
+The sections below outline the recommended workflows and tools for each type of data transfer. Examples are provided at the end.
+
+### Small Datasets 🟢
+
+- ✅ Ideal for datasets under [size TBD]
+- ✅ No data preparation required
+- ✅ Upload directly through your browser
+- ✅ Simple, easy-to-use workflow 
 
 
+ `(feature to develop and should be the easiest user test case)`
+
+<img width="359" height="240" alt="image" src="https://github.com/user-attachments/assets/d99ba682-ea84-4690-a35c-73006841430a" />
+
+`One of the key differences is the permissions associated with these modules and the user role that would be associated with accessing each module. `
+`Below is a screenshot of the various permissions for each module. `
+
+ `there are four key roles that would be associated with imaging tasks. `
+* `1. MRI expert & LORIS developer: This user would have access to the DICOM Archive and the violated scans to understand more about the imaging ingestion and failures. `
+* `2. MRI Technologist at the scanning site: This user would have access to the imaging uploader. This is where they would first upload the scan after a session using the imaging uploader -- upload tab, and they can then use the imaging uploader - browse tab to confirm the scan has been transmitted and the processing status. `
+* `3. Study coordinators: This user would have access to the imaging browser. They need to interact with the scans per se, but it is good for them to be able to confirm that their participants' scans have been uploaded and ingested properly. `
+* `4. Radiologist and other MRI QC expert: This user would have access to the imaging browser to access the scans at any site & they would also have access to the imaging QC permission to perform quality control on the images. `
+<img width="462" height="295" alt="Screenshot 2026-04-16 at 3 06 00 PM" src="https://github.com/user-attachments/assets/800866bd-2da0-4e07-9062-186ca5f67260" />
+
+`What is the difference between Imaging Brower and Imaging Uploader browser tab: The imaging uploader - browse tab provides you information about your recent upload, such as the progress of the imaging processing and where files are located. The imaging browser provides you a more general overview for coordinators. No details about the processing steps, but you have the general information of what was ingested and when as well as accessing the images. `
+
+`What is the difference between the DICOM Archive and the Imaging Uploader Browser tab: The Imaging uploader browse tab provides you with an overview of the processing steps for the file you uploaded. The DICOM Archive keeps a copy of all the files that were submitted to LORIS, whether they were properly inserted in the database or if they faced an issue and were flagged as violated scans. `
+
+#### BIDS Uploader
+
+`TBD`
+
+#### Instrument Manager
+
+Click on Instrument Manager under the _Admin_ tab to view the list of instruments available in ARCHIMEDES.
+This feature also lets you create new behavioural forms within your ARCHIMEDES database.
+
+<p align="center"><kbd><img width="825" height="317" alt="image" src="https://github.com/user-attachments/assets/5091c7b6-e5f2-48d8-8d86-83553aa92b41" /></kbd></p>
+
+A new page will appear giving you the option to browse or upload  instruments.
+
+➡️ **To browse**
+
+* Use the filters to search for an instrument. 
+* The table will show details about each instrument, including whether it is properly set up in the system.
+
+<img width="1000" height="467" alt="image" src="https://github.com/user-attachments/assets/336969b3-5782-41ba-8aae-accdb3643f31" />
+
+---
+
+**Browse column descriptions:**
+   * _Instrument_: Name of the instrument
+   * _Instrument Type_: Either PHP or Instrument Builder (LINST file)
+   * _Table Installed_: Shows if the instrument’s data table exists (Exists or Missing)
+   * _Table Valid_: Indicates if the database is correctly set up for the instrument
+   * _Pages Valid_: Indicates if all required instrument pages are properly configured
+
+➡️ **To upload**
+
+If your ARCHIMEDES account has this feature enabled, you’ll see the Upload tab where you can add new instruments created with the Instrument Builder.
+* Click Browse to select a LINST file from your computer, 
+* Click Install Instrument to add it to ARCHIMEDES.
+
+**ℹ️Note**: After installing the instrument, you’ll need to manually assign it to the study before it can be used. This step is done through the back-end system.
+
+<kbd><img width="1000" height="467" alt="image" src="https://github.com/user-attachments/assets/123be97a-9a4b-436b-85c8-d15bbce43ec2" /></kbd>
+
+<kbd><img width="1000" height="547" alt="image" src="https://github.com/user-attachments/assets/5f34fa28-3d7b-462a-9036-5bbef7f8a3fc" /></kbd>
+
+#### Electrophysiology
+
+The Electrophysiology Browser module allows you to review, filter, annotate and download `(upload to come)` EEG recordings and metadata.
+
+<img width="700" height="234" alt="image" src="https://github.com/user-attachments/assets/6e49b90d-1239-4adf-beee-496625119fb5" />
+
+`This module allows you to upload EEG recordings and browse past uploads.
+`
+
+`In the Browse tab, you can use the Selection Filter section to search for existing uploads.
+`
+
+`In the data table, you can click any link in the Upload Location column to download the uploaded files.
+`
+
+`To upload recordings, click on the Upload tab. Select your file for upload and enter the required information about the recording.
+`
+Your dataset should be [BIDS-compliant](https://bids-specification.readthedocs.io/).
+
+### Large Datasets 🔵
+
+If you have many files or files larger than `TBD` MB, follow this process to transfer everything securely and efficiently.
+
+#### Data preparation
+
+The Principal Investigator (PI) is responsible for preparing the data before submission, ensuring it meets both the **project’s specific requirements** and the **formatting standards** required by ARCHIMEDES. 
+
+⚠️ Data submitted to ARCHIMEDES **must** comply with applicable privacy regulations and ethical approvals. 
+
+➡️ At a **minimum**, all data must be **<span title="Data subject to an ethics approval and informed consent that authorize sharing, an ethics waiver, or another legal authorization. All direct identifiers must be removed and replaced with a unique code prior to contribution.">Coded Data</span>** and have the necessary permissions for sharing.  
+➡️ All **direct identifiers** (e.g. names, social insurance numbers) are removed and replaced with a unique code, prior to contribution.   
+➡️ Data can be shared if it is **de-identified** (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
+  
+⚠️ **Researchers are responsible for ensuring their data is prepared appropriately.**  
+➡️ More information can be found in our [De Identification Resources Hub](https://www.archimedesdata.ca/resources/data-de-identification/). This includes structuring the data so it can be processed correctly by ARCHIMEDES (i.e., how the system organizes, validates, and imports data).
+
+💡**Tip**: Health data may contain direct identifiers (e.g., names, health card numbers, exact addresses), indirect identifiers (e.g., date of birth, postal code, rare diagnoses), or embedded identifiers (e.g., metadata in imaging files or text within images). These elements must be carefully reviewed and either removed or modified to protect privacy.  
+  
+➡️ According to [ARCHIMEDES Data Submission](https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit), **Date of Birth** (DOB) is required as it supports data validation, structuring, and analysis (e.g., age consistency and longitudinal tracking). While the full format **MM-DD-YYYY** is preferred, users may alternatively provide **MM-YYYY** or **YYYY** when full DOB is not available or cannot be shared. If the year is not available, users may provide **age** only. In these cases, the system applies a default setting that calculates a standardized DOB based on the available information (month/year or age) to ensure consistency within the database structure, while still treating DOB as an indirect identifier and maintaining privacy protections.
+  
+➡️ Please follow the [ARCHIMEDES Data Submission](https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit) guidelines to ensure your files meet the required structure and format.
+
+#### Transfer large datasets
+
+🔐 Secure File Transfer (SFTP)
+
+Use this method when you need to transfer large files or sensitive data securely. SFTP is commonly used when your institution requires encrypted data transfer
+
+Follow the official procedure to transfer all files at once
+
+(TBD - currently the uploads are performed on the backend)
+
+<span title="Coded data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers must be removed and replaced with a unique code prior to contribution.">
+Coded Data
+</span>

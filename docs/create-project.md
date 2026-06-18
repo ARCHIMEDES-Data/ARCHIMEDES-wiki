@@ -1,8 +1,13 @@
-Once your account creation is approved, you can now start the process to create a new project.
+Once your account creation is approved, you can begin the process of creating a new project.
+ARCHIMEDES supports 2 types of data contributions:
+
+* **Coded data**: Coded data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
+
+* **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
 
 There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and create a new project in ARCHIMEDES.
 
-###  Submit a Data Contribution Form (DCF)
+### Submit a Data Contribution Form (DCF)
 
 ➡️  From the dashboard, go to _Data requests_  and click on _Create New Project_.
 
