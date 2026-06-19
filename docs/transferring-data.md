@@ -132,9 +132,9 @@ The Principal Investigator (PI) is responsible for preparing the data before sub
 
 🔐 Secure File Transfer (SFTP)
 
-Use this method when you need to transfer large files or sensitive data securely. SFTP is commonly used when your institution requires encrypted data transfer
+Use this method when you need to transfer large files or sensitive data securely. SFTP is commonly used when your institution requires encrypted data transfer.
 
-Follow the official procedure to transfer all files at once
+Follow the official procedure to transfer all files at once.
 
 (TBD - currently the uploads are performed on the backend)
 

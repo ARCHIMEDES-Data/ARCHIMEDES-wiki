@@ -3,7 +3,7 @@ If your organization does not yet have a DCA, the ARCHIMEDES team will work with
 
 ⚠️ **No account creation or data submission can occur before the DCA is agreed to.**
 
-### ➡️ Data Contribution Agreement (DCA)
+## ➡️ **Data Contribution Agreement (DCA)**
 
 This agreement is established once per organization and will provide contribution permissions to chosen Principal Invetigators (PIs) from that organization. The Data Contribution Agreement (DCA) defines responsibilities, permissions, and governance requirements. Your organization must enter into a DCA before you can contribute data to ARCHIMEDES. If your organization does not yet have a DCA, the ARCHIMEDES team will work with you to establish one. If you have any questions, please don't hesitate to contact the ARCHIMEDES team at ARCHIMEDES@ottawaheart.ca
 
@@ -24,7 +24,7 @@ Before proceeding, users must confirm that all contributed data will be handled 
     - ARCHIMEDES governance policies 🏛️  
 
 
-### ➡️ Data Access Committee (DAC) and Data Access Compliance Office (DACO)
+## ➡️ **Data Access Committee (DAC) and Data Access Compliance Office (DACO)**
 
 ARCHIMEDES is guided by a clear and trusted committee structure who perform portfolio-specific decision-making and advisory functions. These committees include the ARCHIMEDES Leadership, Joint Liaison, Community Partners, the Data Access Committee (DAC), and the Data Access Compliance Office (DACO).
 

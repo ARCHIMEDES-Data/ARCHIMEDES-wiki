@@ -2,7 +2,7 @@ Creating an [ARCHIMEDES](https://www.archimedesdata.ca/) account will allow you 
 
 In this section, we will guide you step by step on how to set-up an ARCHIMEDES account to access the platform.
 
-###  Create an account as a Principal Investigator
+##  **Create an account as a Principal Investigator**
 
 ➡️ Step 1: Go to the  [Get Started ](https://www.archimedesdata.ca/get-started/) page and Click on [Request Account](https://archimedes.loris.ca/?page=request)
 
@@ -24,7 +24,7 @@ In this section, we will guide you step by step on how to set-up an ARCHIMEDES a
 * If your institution already has a DCA, the ARCHIMEDES team will provide instructions on activating your account.    
 * If your institution does not yet have a DCA, the ARCHIMEDES team will work with your institution's legal signing authority to establish one before your account can be approved. 
 
-###  Get access as a non‐Principal Investigator
+##  **Get access as a non‐Principal Investigator**
 
 Users who are not Principal Investigators (PIs) cannot create an [ARCHIMEDES](https://www.archimedesdata.ca/) account independently. To obtain access, they must be invited by a PI and receive an invitation code to join an existing project. After joining the PI’s project, invited users will be able to either contribute data to the project or access controlled data, depending on the permissions assigned to them.
 

@@ -7,69 +7,125 @@ ARCHIMEDES supports 2 types of data contributions:
 
 There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and create a new project in ARCHIMEDES.
 
-### Submit a Data Contribution Form (DCF)
+## **Submit a Data Contribution Form (DCF)**
 
-➡️  From the dashboard, go to _Data requests_  and click on _Create New Project_.
+➡️  From the dashboard, go to _Project Requests_  and click on _Create New Project_.
 
-<kbd><img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/fec09b12-4f17-4f61-bcde-10277c3c4984" /></kbd>
+<img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/fec09b12-4f17-4f61-bcde-10277c3c4984" />
 
-➡️  A _Create New Project_ window will open, prompting you to enter the study name and the Principal Investigator’s (PI’s) information.
+➡️  A _Create New Project_ window will open, asking you to enter the study name and the Principal Investigator’s (PI’s) information.
 
 **ℹ️Note**: PI's information is autopopulated based on the account information. If the information you see is incorrect, you can modify it in the "my preferences", section available under your name.
 
-➡️  Click _Submit to Create New Project_.
+➡️  Click _Next_.
 
-<kbd><img width="617" height="310" alt="image" src="https://github.com/user-attachments/assets/ed7603aa-6115-404b-ad3e-e3b57737bb08" /></kbd>
+![img_4.png](img_4.png)
 
-➡️  From the dashboard, you can access the status of your project request under Project Requests.
+➡️ Agree to the Data Contributor Terms of Use and click on _Agree & Create New Project_
 
-<kbd> <img width="786" height="819" alt="image" src="https://github.com/user-attachments/assets/f434d0fc-952e-4b42-b6ff-c8fc03f89c1e" /></kbd>
+![img_5.png](img_5.png)
 
-➡️  Once the New Project creation is submitted, a unique Request ID will be generated for the project, and a confirmation email will be sent to you. An example email is seen below:
+![img_7.png](img_7.png){ width=300 .center }
 
-Email text:
+➡️ The project will be registered and a confirmation window will open displaying a unique **Request ID** and a link to complete the Data Contribution Form (DCF). A confirmation email will also be sent containing this information.
 
-_Dear [Insert PI name],_
-_Your initial project creation request for [insert project name] has been registered. Your Request ID is: [insert request ID]. _
-_Please proceed with the next steps of your project creation:_
-_Complete your Data Contribution Form (DCF) via the following link [insert MS Forms link to DCF]_
-_You will be required to indicate your Request ID (see above) at the top of this form_
-_Export your completed DCF as a PDF and compile supporting documentation._
-_Exact supporting material required will depend on your responses to various items in the DCF – these are outlined in the form._
-_Submit your completed DCF + relevant supporting materials to the ARCHIMEDES Data Access Compliance Office (DACO) via email (archimedes.daco@ottawaheart.ca)_
-_Once these steps have been completed, the ARCHIMEDES DACO will be in contact via email to discuss your DCF review. You will also be notified once your DCF is approved and you can return to this page to proceed with your project creation. _
-_Sincerely,  the ARCHIMEDES team_
- 
+![img_8.png](img_8.png)
 
-➡️  Complete the Data Contribution Form (DCF) and agree to the Terms of Use available in the provided MS form link.
-For your reference, a non-fillable version of the form is available for your reference. `link to be provided`
+➡️  Complete the DCF [MS form link](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
 
 ➡️  **Send The DCF (pdf format) with the requested supporting material to the Data Access Committee Office (DACO) at [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
 
-➡️  This  New Project creation will be pending until the DACO uploads the approved DCF.
+➡️  This New Project will be pending until the DACO uploads the approved DCF.
 
-➡️  From the dashboard, you can access the status of your project request under _Project Requests_.
+➡️ From the dashboard, you can track the status of your project request under _Project Requests_. Click on the status to view additional details.
 
-<kbd><img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/1f623f29-5792-4d18-bf55-a26c84c829bc" /></kbd>
-
-➡️  You can click on the status to review details of the project approval status.
+![img_9.png](img_9.png){ .center }
 
 ➡️ Approval status will be updated in a timely matter. 
 
-➡️  Once the DCF is approved by the DACO, proceed to the next step.
+➡️  Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
 
-###  Create a new project
+![img_10.png](img_10.png){ .center }  
 
-To create a new project in ARCHIMEDES, you will be asked to provide detailed  information about the project. The form is completed in several steps:
+![img_12.png](img_12.png){ width=700 .center }
 
-#### **🗂️ Project information**
-#### **🔬 Data Types**
-##### 🧠 Behavioural
-##### 🖼️ Imaging
-##### 🧪 Biospecimen
-##### 🧬 -Omics
-##### ⌚🔄 Wearables and continuous monitoring
-##### 📏 Other Measurements
+## **Create a New Project**
 
+Complete the following steps to provide the required project information:
 
+### 🗂️ Project information
 
+In this section, you will be asked to provide general information about your project, including the study design, study population, expected number of participants, participant groups, contact information, institutional information, session information, and supporting documentation such as the study protocol.
+
+![img_25.png](img_25.png)
+
+![img_24.png](img_24.png)
+
+💡**Tip**: a tooltip will appear when you hover over the icon <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/46da2fd9-a699-42a0-a08a-ba061542a64d" />
+
+💡**Tip**: Health data may contain direct identifiers (e.g., names, health card numbers, exact addresses), indirect identifiers (e.g., **date of birth**, postal code, rare diagnoses), or embedded identifiers (e.g., metadata in imaging files or text within images). These elements must be carefully reviewed and either removed or modified to protect privacy.  
+  
+➡️ According to [ARCHIMEDES Data Submission](https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit), **Date of Birth** (DOB) is required as it supports data validation, structuring, and analysis (e.g., age consistency and longitudinal tracking). While the full format **MM-DD-YYYY** is preferred, users may alternatively provide **MM-YYYY** or **YYYY** when full DOB is not available or cannot be shared. If the year is not available, users may provide **age** only. In these cases, the system applies a default setting that calculates a standardized DOB based on the available information (month/year or age) to ensure consistency within the database structure, while still treating DOB as an indirect identifier and maintaining privacy protections.
+
+💡**Note**: A ❌ indicates missing required information
+
+![img_18.png](img_18.png)
+
+Once all required information has been provided, a ✅ will appear.
+
+![img_17.png](img_17.png)
+
+### 🔬 Data Types
+
+Most studies include multiple data type. Select all that apply from the drop down menu. 
+
+![data types](data%20types.png)
+
+Once you have selected all data types included in your project, you will have to complete a separate form for each one.
+The example below shows the Imaging form, which is required when Imaging is selected as a data type.
+
+![img_23.png](img_23.png)
+
+💡 The descriptions below provide examples of the types of data that may be collected, generated, or analyzed as part of your research.
+
+#### 🧠 Behavioural
+
+  - Participant actions, habits, or self-reported experiences  
+  - Examples: surveys, questionnaires, cognitive tests, activity logs
+
+#### 🖼️ Imaging
+
+  - Visual or radiological data capturing anatomy or function  
+  - Examples: MRI, CT scans, X-rays, ultrasound, PET scans  
+
+#### 🧪 Biospecimen
+
+  - Biological samples collected for analysis  
+  - Examples: blood, tissue, saliva, urine  
+
+#### 🧬 -Omics
+
+  - Molecular or genomic data derived from DNA or RNA  
+  - Examples: whole genome sequencing, genotyping, gene expression data  
+
+#### ⌚🔄 Wearables and continuous monitoring
+
+  - Data collected over time via devices or sensors  
+  - Examples: heart rate, sleep patterns, activity tracking from smartwatches or wearable sensors  
+
+#### 📏 Other Measurements
+
+  - Additional clinical or physiological data not included above  
+  - Examples: vital signs (blood pressure, temperature), lab results, height, weight    
+
+### ✅ Proceed to the next steps until Status is completed
+
+![img_19.png](img_19.png)
+
+![img_20.png](img_20.png)
+
+![img_21.png](img_21.png)
+
+⏳ Your project request is now under administrative review.
+
+If additional information is required, the ARCHIMEDES team will contact you. Once approved, you will receive an email outlining the next steps.
