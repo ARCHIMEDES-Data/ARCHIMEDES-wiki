@@ -1,0 +1,42 @@
+:root {
+    --md-primary-fg-color: #C7E6FC;
+}
+
+.md-header,
+.md-header * ,
+.md-tabs,
+.md-tabs * {
+    color: #333F49 !important;
+}
+
+.md-tabs__link,
+.md-tabs__link--active,
+.md-nav__link,
+.md-nav__link--active {
+    color: #000000 !important;
+}
+
+.md-content a,
+.md-content a:visited {
+    color: #005B99 !important;
+}
+
+.md-button {
+    color: #333F49 !important;
+    border-color: #333F49 !important;
+}
+
+a[href^="mailto:"] {
+    color: #005B99 !important;
+}
+
+.md-content img {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
