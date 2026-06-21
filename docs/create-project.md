@@ -1,11 +1,11 @@
 Once your account creation is approved, you can begin the process of creating a new project.
-ARCHIMEDES supports 2 types of data contributions:
+ARCHIMEDES supports two types of data contributions:
 
-* **Coded data**: Coded data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
+* **Coded data**: Data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
 
 * **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
 
-There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and create a new project in ARCHIMEDES.
+There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and _Create a New Project_ in ARCHIMEDES.
 
 ## **Submit a Data Contribution Form (DCF)**
 
@@ -21,7 +21,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ![img_4.png](img_4.png)
 
-➡️ Agree to the Data Contributor Terms of Use and click on _Agree & Create New Project_
+➡️ Agree to the Data Contributor Terms of Use and click on _Agree & Create New Project_.
 
 ![img_5.png](img_5.png)
 
@@ -35,7 +35,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️  **Send The DCF (pdf format) with the requested supporting material to the Data Access Committee Office (DACO) at [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
 
-➡️  This New Project will be pending until the DACO uploads the approved DCF.
+➡️  This _New Project_ will be pending until the DACO uploads the approved DCF.
 
 ➡️ From the dashboard, you can track the status of your project request under _Project Requests_. Click on the status to view additional details.
 

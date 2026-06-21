@@ -36,10 +36,11 @@ From the dashboard you can easily view:
 `🏥 Show or Hide Sites`
 `Click on site names below the graph to toggle them on or off. This allows you to focus on specific sites.`
 
-🎯 **Filter the Data** – Some dashboard sections provide filters to refine the information displayed:
-* 📁 **Project filter** – select a specific project
-* 📂 **Subproject filter** – narrow results to a subproject
-* 📍 **Site filter** – view data for selected sites only
+🎯 **Filter the Data** – Some dashboard sections provide filters to refine the information displayed:  
+
+* 📁 **Project filter** – select a specific project    
+* 📂 **Subproject filter** – narrow results to a subproject    
+* 📍 **Site filter** – view data for selected sites only     
 
 ### Navigation path 🧭
 

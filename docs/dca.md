@@ -9,20 +9,14 @@ This agreement is established once per organization and will provide contributio
 
 ⚠️ **No account creation or data submission can occur before the DCA is agreed to.** 
 
-Once your organization has a DCA (Data Contribution Agreement) in place:
+Once a Data Contribution Agreement (DCA) is in place:
 
-- 👩‍🔬 Authorized Principal Investigators (PIs)  
-    - Your institution approves designated PIs
-
-- 🧑‍💻 PI Account Creation  
-    - Approved PIs can then create their accounts in the system
-
-- 📜 Agree to Terms of Use  
-Before proceeding, users must confirm that all contributed data will be handled and shared according to:  
-    - Ethical approvals ✅  
+1. Your institution approves designated Principal Investigators (PIs).
+2. Approved PIs create an ARCHIMEDES account.
+3. Before proceeding, users must agree to the Terms of Use and confirm that all contributed data will be handled and shared in accordance with:
+    - Ethical approvals ✅
     - Legal requirements ⚖️  
     - ARCHIMEDES governance policies 🏛️  
-
 
 ## ➡️ **Data Access Committee (DAC) and Data Access Compliance Office (DACO)**
 

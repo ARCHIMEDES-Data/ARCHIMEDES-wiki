@@ -11,6 +11,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/open-links-new-tab.js
+  
 markdown_extensions:
   - attr_list
 
