@@ -51,11 +51,11 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ## **Create a New Project**
 
-Complete the following steps to provide the required project information:
+To create a new project, complete the sections below with information about your study.
 
 ### 🗂️ Project information
 
-In this section, you will be asked to provide general information about your project, including the study design, study population, expected number of participants, participant groups, contact information, institutional information, session information, and supporting documentation such as the study protocol.
+Provide the required information about your study, including the study design, participant population, expected number of participants, participant groups, institutional and contact information, session details, and supporting documents (e.g., the study protocol).
 
 ![img_25.png](img_25.png)
 
