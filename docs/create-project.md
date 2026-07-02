@@ -5,7 +5,7 @@ ARCHIMEDES supports two types of data contributions:
 
 * **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
 
-There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and _Create a New Project_ in ARCHIMEDES.
+There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and **Create a New Project** in ARCHIMEDES.
 
 ## **Submit a Data Contribution Form (DCF)**
 
