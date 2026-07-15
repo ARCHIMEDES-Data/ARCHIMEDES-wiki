@@ -62,7 +62,6 @@ A third tier, **Registered Data Access**, will be available for ARCHIMEDES users
     
 The schematic below illustrates the platform’s structure and capabilities.
 
-<img width="970" height="" alt="_ARCHIMEDES - Data Flow - Start to Finish Lite Schematic (Revised-Dec 2025-Royal box removed)" src="https://github.com/user-attachments/assets/f0deaf43-1931-44fc-abdb-1b7bac1948c0" />
-
+![ARCHIMEDES Data Flow](images/Data_Flow_july2026.jpg)
 
 [Get Started](getting-started.md){ .md-button .md-button--primary }
