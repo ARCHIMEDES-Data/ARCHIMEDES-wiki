@@ -2,7 +2,7 @@
 
 ARCHIMEDES provides access to a wide range of analysis tools through the CBRAIN platform. While CBRAIN offers over 100 analysis tools, this catalogue highlights a selection of the most commonly used tools to help you get started. If you are interested in using a tool that is not listed, please don't hesitate to contact the ARCHIMEDES team.
 
-**ℹ️Note**: The ARCHIMEDES tool catalogue is continuously expanding. Additional tools, including cardiac imaging analysis tools, will be added as they become available. If you are interested in a specific analysis tool, please contact us at [ARCHIMEDES@ottawaheart.ca](...).
+**ℹ️Note**: The ARCHIMEDES Tool Catalogue is continuously expanding. Additional tools, including cardiac imaging analysis tools, will be added as they become available. If you are interested in a specific analysis tool, please contact us at [ARCHIMEDES@ottawaheart.ca](...).
 
 ## File Format Conversion
 
