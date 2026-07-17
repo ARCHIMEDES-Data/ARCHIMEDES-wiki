@@ -1,4 +1,4 @@
-## Tool Catalogue
+# Tool Catalogue
 
 ARCHIMEDES provides access to a wide range of analysis tools through the CBRAIN platform. While CBRAIN offers over 100 analysis tools, this catalogue highlights a selection of the most commonly used tools to help you get started. If you are interested in using a tool that is not listed, please don't hesitate to contact the ARCHIMEDES team.
 
@@ -27,7 +27,7 @@ Tools for extracting files from existing datasets.
 |------|-------------|
 | **SimpleFileExtractor** | Extracts files from existing datasets by matching specified filename patterns. |
 
-### Structural MRI
+## Structural MRI
 
 Tools for processing and and analyzing brain anatomy and structural images.This includes cortical surfaces, tissue segmentation, and quality control.
 
