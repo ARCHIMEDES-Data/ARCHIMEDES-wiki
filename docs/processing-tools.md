@@ -19,13 +19,13 @@ Tools for converting research data between commonly used medical imaging and neu
 | Mnc2nii | Converts MINC images to the NIfTI file format. |
 | Nii2mnc | Converts NIfTI images to the MINC file format. |
 
-## File Management
+## File Operations
 
-Tools for organizing, managing, and preparing research files for analysis and data processing.
+Tools for extracting files from existing datasets.
 
 | Tool | Description |
 |------|-------------|
-| FileSync | Synchronizes files and directories between storage locations. |
+| **SimpleFileExtractor** | Extracts files from existing datasets by matching specified filename patterns. |
 
 ### Structural MRI
 
@@ -158,3 +158,5 @@ Tools for developing, packaging, and managing analysis pipelines.
 | Tool | Description |
 |------|-------------|
 | BoutiquesDescriptorMaker | Creates Boutiques descriptors for packaging and describing analysis tools to support reproducible execution across computing platforms. |
+
+
