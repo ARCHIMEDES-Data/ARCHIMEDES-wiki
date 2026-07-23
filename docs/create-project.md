@@ -43,11 +43,13 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ Approval status will be updated in a timely matter. 
 
+➡️ You will receive an email confirming that your ARCHIMEDES project has been created. You can then log in to access your project on the platform.
+
 ➡️  Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
 
 ![img_10.png](img_10.png){ .center }  
 
-![img_12.png](img_12.png){ width=700 .center }
+![Project creation](images/Projectcreation_dcfapproval.png){ width=700 .center }
 
 ## **Create a New Project**
 
@@ -57,7 +59,7 @@ To create a new project, complete the sections below with information about your
 
 Provide the required information about your study, including the study design, participant population, expected number of participants, participant groups, institutional and contact information, session details, and supporting documents (e.g., the study protocol).
 
-![img_25.png](img_25.png)
+![info1](images/info1.png)
 
 ![img_24.png](img_24.png)
 
@@ -70,6 +72,12 @@ Provide the required information about your study, including the study design, p
 💡**Note**: A ❌ indicates missing required information
 
 ![img_18.png](img_18.png)
+
+You can either go back and complete the missing information or continue through the remaining steps to the Status page, where you will be prompted to complete it.
+
+![steptofix](images/steptofix.png)
+
+![steptofix2](images/steptofix_2.png)
 
 Once all required information has been provided, a ✅ will appear.
 
