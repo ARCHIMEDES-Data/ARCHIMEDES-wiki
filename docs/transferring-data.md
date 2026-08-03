@@ -129,13 +129,169 @@ The Principal Investigator (PI) is responsible for preparing the data before sub
 
 ### Transfer large datasets
 
-🔐 Secure File Transfer (SFTP)
+#### 🔐 Secure File Transfer (SFTP)
 
-Use this method when you need to transfer large files or sensitive data securely. SFTP is commonly used when your institution requires encrypted data transfer.
+Secure File Transfer Protocol (SFTP) is a secure method for transferring files between your computer and the ARCHIMEDES platform. Unlike standard file transfers, SFTP encrypts both your login credentials and research data during transmission, helping protect sensitive information.
 
-Follow the official procedure to transfer all files at once.
+For projects requiring the transfer of large datasets, the ARCHIMEDES team will provide you with access to an SFTP server, along with the required connection details.
 
-(TBD - currently the uploads are performed on the backend)
+This guide describes two methods for transferring data:
+
+- **FileZilla (recommended)** – A graphical SFTP client suitable for most users.
+- **Command Line (Terminal)** – Intended for users who prefer working in a terminal environment.
+
+**🌐 SFTP Connection Details**
+
+The ARCHIMEDES team will provide you with the information required to connect to the SFTP server.
+
+| Setting | Value |
+|----------|-------|
+| **Host** | `cbigr-ftp-internal-contribution.loris.ca` |
+| **Port** | `7515` |
+| **Protocol** | SFTP |
+| **Username** | Your ARCHIMEDES account email address |
+| **Password** | Your ARCHIMEDES account password |
+
+ℹ️ **Note:** 
+Use the same email address and password that you use to sign in to your ARCHIMEDES account.
+
+#### 🖥️ Option 1 – Using FileZilla (Recommended)
+
+[FileZilla](https://filezilla-project.org/) is a free, open-source FTP, FTPS, and SFTP client that provides a simple graphical interface for securely transferring files between your computer and the ARCHIMEDES SFTP server. It is available for Windows, macOS, and Linux, and is recommended for most users.
+
+The following steps describe how to connect to the SFTP server and upload your data using FileZilla.
+
+**1. Connect to the SFTP Server**
+
+➡️ Open the **FileZilla Client**. The main window contains two sections:
+
+- **Local site** – Displays the files and folders on your computer.
+- **Remote site** – Displays the files and folders on the ARCHIMEDES SFTP server after you connect.
+
+➡️ Click the **Site Manager** icon. A new window will open. where you can enter the SFTP connection details. 
+
+![FileZilla main window](images/Filezilla_1.png)
+
+➡️ Click **New Site**, then under the **General** tab, enter the following information:
+
+- **Protocol:** `SFTP - SSH File Transfer Protocol`
+- **Host:** `cbigr-ftp-internal-contribution.loris.ca`
+- **Port:** `7515`
+- **Logon Type:** `Normal`
+- **User:** Your ARCHIMEDES account email address
+- **Password:** Your ARCHIMEDES account password
+
+➡️ Select the **Advanced** tab and set **Bypass proxy** as the **Proxy type**.  
+
+➡️ Click *Connect*.
+
+![Connectinfo](images/filezilla_detstoenter.png)
+
+![bypass](images/filezillabypass.png)
+
+➡️ When you connect to the SFTP server for the first time, FileZilla displays an **Unknown host key** message.
+
+Verify that the **Host** matches the SFTP server address, select *Always trust this host, add this key to the cache* box  and click OK.
+
+![Unknown host key](images/filezilla_unknownhostkey.png)
+
+**2. Upload Files to the Remote Site**
+
+Once you are connected:   
+➡️ In the **Local site** pane (left), navigate to the folder containing the data you want to upload (in this example, the folder is **ARCHIMEDES**).    
+➡️ In the **Remote site** pane (right), the contents of the SFTP server are displayed.    
+➡️ Double-click the **uploads** folder to open it.  
+
+![connected](images/filezillaconnected.png)
+
+➡️ The **FDGP** folder will appear.  
+➡️ Upload your data to this folder by dragging and dropping the selected files or folders from the **Local site** to the **Remote site**, or by right-clicking the selected item and choosing **Upload**. 
+
+![FDGP](images/uploadtoFDGP.png)
+![completed](images/uploadcomplete.png)
+
+#### ⌨️ Option 2 – Using the Command Line
+
+The command line provides an alternative method for securely transferring files to the SFTP server. This option is intended for users who are comfortable working in a terminal.
+
+**1. Connect to the SFTP Server**
+
+➡️ Open a terminal (Command Prompt, PowerShell, or Terminal) and run the following command:
+
+```bash
+sftp -oPort=7515 your_email@example.com@cbigr-ftp-internal-contribution.loris.ca
+```
+**2. Accept the Host Key (First Connection Only)**
+
+➡️ The first time you connect, you may be asked to verify the server's host key.
+```
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
+➡️ Type:
+
+```bash
+yes
+```
+
+️️➡️ When prompted, enter your ARCHIMEDES account password.  
+ℹ️ **Note:**
+Use the same email address and password that you use to sign in to your ARCHIMEDES account.  
+️️  
+➡️ Successful connection:  
+```
+Connected to cbigr-ftp-internal-contribution.loris.ca.
+```
+**3. Navigate to Your Project Folder**
+
+➡️  Go to the `uploads` directory:
+
+```bash
+sftp> cd uploads
+```
+
+List the available project folder(s):
+
+```bash
+sftp> ls
+FDGP
+```
+Change to the `FDGP` folder where your data will be uploaded::
+
+```bash
+sftp> cd FDGP
+```
+
+**4. Upload Your Files**
+
+➡️ Upload a single file:
+
+```bash
+sftp> put transfer.txt
+```
+A successful upload will display as:
+
+```
+Uploading transfer.txt to /uploads/FDGP/transfer.txt
+transfer.txt                                100%   17     2.2KB/s   00:00
+```
+➡️ Upload an entire directory:
+
+```bash
+sftp> put -r foldername
+```
+**4. Verify the Upload**
+
+➡️ List the files in the current remote directory:
+
+```bash
+sftp> ls
+transfer.txt
+```
+**5. End the SFTP Session**
+
+```bash
+sftp> exit
+```
 
 ## Custom Assisted Transfer 🛠️
 
