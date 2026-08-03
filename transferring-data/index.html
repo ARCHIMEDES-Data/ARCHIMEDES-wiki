@@ -739,6 +739,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Transfer large datasets">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#secure-file-transfer-sftp" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔐 Secure File Transfer (SFTP)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-1-using-filezilla-recommended" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🖥️ Option 1 – Using FileZilla (Recommended)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-using-the-command-line" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⌨️ Option 2 – Using the Command Line
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -1123,6 +1162,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Transfer large datasets">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#secure-file-transfer-sftp" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔐 Secure File Transfer (SFTP)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-1-using-filezilla-recommended" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🖥️ Option 1 – Using FileZilla (Recommended)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-using-the-command-line" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⌨️ Option 2 – Using the Command Line
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -1360,10 +1438,135 @@ If you have many files or files larger than <code>TBD</code> MB, follow this pro
 <p>➡️ According to <a href="https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit">ARCHIMEDES Data Submission</a>, <strong>Date of Birth</strong> (DOB) is required as it supports data validation, structuring, and analysis (e.g., age consistency and longitudinal tracking). While the full format <strong>MM-DD-YYYY</strong> is preferred, users may alternatively provide <strong>MM-YYYY</strong> or <strong>YYYY</strong> when full DOB is not available or cannot be shared. If the year is not available, users may provide <strong>age</strong> only. In these cases, the system applies a default setting that calculates a standardized DOB based on the available information (month/year or age) to ensure consistency within the database structure, while still treating DOB as an indirect identifier and maintaining privacy protections.</p>
 <p>➡️ Please follow the <a href="https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit">ARCHIMEDES Data Submission</a> guidelines to ensure your files meet the required structure and format.</p>
 <h3 id="transfer-large-datasets">Transfer large datasets</h3>
-<p>🔐 Secure File Transfer (SFTP)</p>
-<p>Use this method when you need to transfer large files or sensitive data securely. SFTP is commonly used when your institution requires encrypted data transfer.</p>
-<p>Follow the official procedure to transfer all files at once.</p>
-<p>(TBD - currently the uploads are performed on the backend)</p>
+<h4 id="secure-file-transfer-sftp">🔐 Secure File Transfer (SFTP)</h4>
+<p>Secure File Transfer Protocol (SFTP) is a secure method for transferring files between your computer and the ARCHIMEDES platform. Unlike standard file transfers, SFTP encrypts both your login credentials and research data during transmission, helping protect sensitive information.</p>
+<p>For projects requiring the transfer of large datasets, the ARCHIMEDES team will provide you with access to an SFTP server, along with the required connection details.</p>
+<p>This guide describes two methods for transferring data:</p>
+<ul>
+<li><strong>FileZilla (recommended)</strong> – A graphical SFTP client suitable for most users.</li>
+<li><strong>Command Line (Terminal)</strong> – Intended for users who prefer working in a terminal environment.</li>
+</ul>
+<p><strong>🌐 SFTP Connection Details</strong></p>
+<p>The ARCHIMEDES team will provide you with the information required to connect to the SFTP server.</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Host</strong></td>
+<td><code>cbigr-ftp-internal-contribution.loris.ca</code></td>
+</tr>
+<tr>
+<td><strong>Port</strong></td>
+<td><code>7515</code></td>
+</tr>
+<tr>
+<td><strong>Protocol</strong></td>
+<td>SFTP</td>
+</tr>
+<tr>
+<td><strong>Username</strong></td>
+<td>Your ARCHIMEDES account email address</td>
+</tr>
+<tr>
+<td><strong>Password</strong></td>
+<td>Your ARCHIMEDES account password</td>
+</tr>
+</tbody>
+</table>
+<p>ℹ️ <strong>Note:</strong> 
+Use the same email address and password that you use to sign in to your ARCHIMEDES account.</p>
+<h4 id="option-1-using-filezilla-recommended">🖥️ Option 1 – Using FileZilla (Recommended)</h4>
+<p><a href="https://filezilla-project.org/">FileZilla</a> is a free, open-source FTP, FTPS, and SFTP client that provides a simple graphical interface for securely transferring files between your computer and the ARCHIMEDES SFTP server. It is available for Windows, macOS, and Linux, and is recommended for most users.</p>
+<p>The following steps describe how to connect to the SFTP server and upload your data using FileZilla.</p>
+<p><strong>1. Connect to the SFTP Server</strong></p>
+<p>➡️ Open the <strong>FileZilla Client</strong>. The main window contains two sections:</p>
+<ul>
+<li><strong>Local site</strong> – Displays the files and folders on your computer.</li>
+<li><strong>Remote site</strong> – Displays the files and folders on the ARCHIMEDES SFTP server after you connect.</li>
+</ul>
+<p>➡️ Click the <strong>Site Manager</strong> icon. A new window will open. where you can enter the SFTP connection details. </p>
+<p><img alt="FileZilla main window" src="../images/Filezilla_1.png" /></p>
+<p>➡️ Click <strong>New Site</strong>, then under the <strong>General</strong> tab, enter the following information:</p>
+<ul>
+<li><strong>Protocol:</strong> <code>SFTP - SSH File Transfer Protocol</code></li>
+<li><strong>Host:</strong> <code>cbigr-ftp-internal-contribution.loris.ca</code></li>
+<li><strong>Port:</strong> <code>7515</code></li>
+<li><strong>Logon Type:</strong> <code>Normal</code></li>
+<li><strong>User:</strong> Your ARCHIMEDES account email address</li>
+<li><strong>Password:</strong> Your ARCHIMEDES account password</li>
+</ul>
+<p>➡️ Select the <strong>Advanced</strong> tab and set <strong>Bypass proxy</strong> as the <strong>Proxy type</strong>.  </p>
+<p>➡️ Click <em>Connect</em>.</p>
+<p><img alt="Connectinfo" src="../images/filezilla_detstoenter.png" /></p>
+<p><img alt="bypass" src="../images/filezillabypass.png" /></p>
+<p>➡️ When you connect to the SFTP server for the first time, FileZilla displays an <strong>Unknown host key</strong> message.</p>
+<p>Verify that the <strong>Host</strong> matches the SFTP server address, select <em>Always trust this host, add this key to the cache</em> box  and click OK.</p>
+<p><img alt="Unknown host key" src="../images/filezilla_unknownhostkey.png" /></p>
+<p><strong>2. Upload Files to the Remote Site</strong></p>
+<p>Once you are connected: <br />
+➡️ In the <strong>Local site</strong> pane (left), navigate to the folder containing the data you want to upload (in this example, the folder is <strong>ARCHIMEDES</strong>).  <br />
+➡️ In the <strong>Remote site</strong> pane (right), the contents of the SFTP server are displayed.  <br />
+➡️ Double-click the <strong>uploads</strong> folder to open it.  </p>
+<p><img alt="connected" src="../images/filezillaconnected.png" /></p>
+<p>➡️ The <strong>FDGP</strong> folder will appear.<br />
+➡️ Upload your data to this folder by dragging and dropping the selected files or folders from the <strong>Local site</strong> to the <strong>Remote site</strong>, or by right-clicking the selected item and choosing <strong>Upload</strong>. </p>
+<p><img alt="FDGP" src="../images/uploadtoFDGP.png" />
+<img alt="completed" src="../images/uploadcomplete.png" /></p>
+<h4 id="option-2-using-the-command-line">⌨️ Option 2 – Using the Command Line</h4>
+<p>The command line provides an alternative method for securely transferring files to the SFTP server. This option is intended for users who are comfortable working in a terminal.</p>
+<p><strong>1. Connect to the SFTP Server</strong></p>
+<p>➡️ Open a terminal (Command Prompt, PowerShell, or Terminal) and run the following command:</p>
+<pre><code class="language-bash">sftp -oPort=7515 your_email@example.com@cbigr-ftp-internal-contribution.loris.ca
+</code></pre>
+<p><strong>2. Accept the Host Key (First Connection Only)</strong></p>
+<p>➡️ The first time you connect, you may be asked to verify the server's host key.</p>
+<pre><code>Are you sure you want to continue connecting (yes/no/[fingerprint])?
+</code></pre>
+<p>➡️ Type:</p>
+<pre><code class="language-bash">yes
+</code></pre>
+<p>️️➡️ When prompted, enter your ARCHIMEDES account password.<br />
+ℹ️ <strong>Note:</strong>
+Use the same email address and password that you use to sign in to your ARCHIMEDES account.<br />
+️️<br />
+➡️ Successful connection:  </p>
+<pre><code>Connected to cbigr-ftp-internal-contribution.loris.ca.
+</code></pre>
+<p><strong>3. Navigate to Your Project Folder</strong></p>
+<p>➡️  Go to the <code>uploads</code> directory:</p>
+<pre><code class="language-bash">sftp&gt; cd uploads
+</code></pre>
+<p>List the available project folder(s):</p>
+<pre><code class="language-bash">sftp&gt; ls
+FDGP
+</code></pre>
+<p>Change to the <code>FDGP</code> folder where your data will be uploaded::</p>
+<pre><code class="language-bash">sftp&gt; cd FDGP
+</code></pre>
+<p><strong>4. Upload Your Files</strong></p>
+<p>➡️ Upload a single file:</p>
+<pre><code class="language-bash">sftp&gt; put transfer.txt
+</code></pre>
+<p>A successful upload will display as:</p>
+<pre><code>Uploading transfer.txt to /uploads/FDGP/transfer.txt
+transfer.txt                                100%   17     2.2KB/s   00:00
+</code></pre>
+<p>➡️ Upload an entire directory:</p>
+<pre><code class="language-bash">sftp&gt; put -r foldername
+</code></pre>
+<p><strong>4. Verify the Upload</strong></p>
+<p>➡️ List the files in the current remote directory:</p>
+<pre><code class="language-bash">sftp&gt; ls
+transfer.txt
+</code></pre>
+<p><strong>5. End the SFTP Session</strong></p>
+<pre><code class="language-bash">sftp&gt; exit
+</code></pre>
 <h2 id="custom-assisted-transfer">Custom Assisted Transfer 🛠️</h2>
 <p>Custom Assisted Transfer is available for more complex or specialized requirements, with support from the ARCHIMEDES team.  </p>
 <h2 id="example-workflows">Example Workflows 💡</h2>
