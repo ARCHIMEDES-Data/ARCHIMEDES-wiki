@@ -1,3 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+    </url>
+    <url>
+        <loc>Noneaccount-creation/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneaccount-creation/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/account-creation/"/>
+    </url>
+    <url>
+        <loc>Nonecreate-project/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecreate-project/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/create-project/"/>
+    </url>
+    <url>
+        <loc>Nonedata-access/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-access/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-access/"/>
+    </url>
+    <url>
+        <loc>Nonedata-curation/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-curation/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-curation/"/>
+    </url>
+    <url>
+        <loc>Nonedata-portal/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-portal/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-portal/"/>
+    </url>
+    <url>
+        <loc>Nonedata-release/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-release/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-release/"/>
+    </url>
+    <url>
+        <loc>Nonedca/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedca/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/dca/"/>
+    </url>
+    <url>
+        <loc>Nonegetting-started/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegetting-started/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/getting-started/"/>
+    </url>
+    <url>
+        <loc>Noneprocessing-tools/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprocessing-tools/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/processing-tools/"/>
+    </url>
+    <url>
+        <loc>Nonesearch-data/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesearch-data/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/search-data/"/>
+    </url>
+    <url>
+        <loc>Nonetransferring-data/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetransferring-data/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/transferring-data/"/>
+    </url>
+    <url>
+        <loc>Nonefr/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonefr/account-creation/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/account-creation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneaccount-creation/"/>
+    </url>
+    <url>
+        <loc>Nonefr/create-project/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/create-project/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecreate-project/"/>
+    </url>
+    <url>
+        <loc>Nonefr/data-access/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-access/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-access/"/>
+    </url>
+    <url>
+        <loc>Nonefr/data-curation/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-curation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-curation/"/>
+    </url>
+    <url>
+        <loc>Nonefr/data-portal/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-portal/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-portal/"/>
+    </url>
+    <url>
+        <loc>Nonefr/data-release/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/data-release/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-release/"/>
+    </url>
+    <url>
+        <loc>Nonefr/dca/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/dca/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedca/"/>
+    </url>
+    <url>
+        <loc>Nonefr/getting-started/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegetting-started/"/>
+    </url>
+    <url>
+        <loc>Nonefr/processing-tools/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/processing-tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprocessing-tools/"/>
+    </url>
+    <url>
+        <loc>Nonefr/search-data/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/search-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesearch-data/"/>
+    </url>
+    <url>
+        <loc>Nonefr/transferring-data/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/transferring-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetransferring-data/"/>
+    </url>
 </urlset>
