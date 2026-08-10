@@ -17,6 +17,35 @@ extra_javascript:
 markdown_extensions:
   - attr_list
 
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+
+        - locale: fr
+          name: Français
+          build: true
+          site_name: Guide d'utilisation d'ARCHIMEDES
+          nav_translations:
+            Home: Accueil
+            Data Contribution: Partage de données
+            Getting started: Démarrer
+            Establish a Data Contribution Agreement (DCA): Établir un accord de contribution de données (DCA)
+            Account Creation: Création d'un compte
+            Create a new project and contribute data: Créer un nouveau projet et partager des données
+            Portal Navigation: Portail
+            Data Transfer: Transfert de données
+            Data Access: Accès aux données
+            Data Search: Recherche de données
+            Analytical Tools: Outils analytiques
+            Data Curation: Curation
+            Data Release: Diffusion des données
+
 nav:
   - Home: index.md
 
