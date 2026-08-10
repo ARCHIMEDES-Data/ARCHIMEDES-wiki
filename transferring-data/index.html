@@ -1386,7 +1386,9 @@
 <p><code>What is the difference between Imaging Brower and Imaging Uploader browser tab: The imaging uploader - browse tab provides you information about your recent upload, such as the progress of the imaging processing and where files are located. The imaging browser provides you a more general overview for coordinators. No details about the processing steps, but you have the general information of what was ingested and when as well as accessing the images.</code></p>
 <p><code>What is the difference between the DICOM Archive and the Imaging Uploader Browser tab: The Imaging uploader browse tab provides you with an overview of the processing steps for the file you uploaded. The DICOM Archive keeps a copy of all the files that were submitted to LORIS, whether they were properly inserted in the database or if they faced an issue and were flagged as violated scans.</code></p>
 <h3 id="bids-uploader">BIDS Uploader</h3>
-<p><code>TBD</code></p>
+<p><code>TBD</code><br />
+ℹ️ <strong>Note:</strong> Your dataset should be <a href="https://bids-specification.readthedocs.io/">BIDS-compliant</a>.<br />
+💡 For more information about the <strong>Brain Imaging Data Structure (BIDS)</strong> standard format, visit our <a href="https://www.archimedesdata.ca/resources/data-standards/bids-overview/">BIDS Overview</a> resource.  </p>
 <h3 id="instrument-manager">Instrument Manager</h3>
 <p>Click on Instrument Manager under the <em>Admin</em> tab to view the list of instruments available in ARCHIMEDES.
 This feature also lets you create new behavioural forms within your ARCHIMEDES database.</p>
@@ -1421,8 +1423,8 @@ This feature also lets you create new behavioural forms within your ARCHIMEDES d
 <p><code>This module allows you to upload EEG recordings and browse past uploads.</code></p>
 <p><code>In the Browse tab, you can use the Selection Filter section to search for existing uploads.</code></p>
 <p><code>In the data table, you can click any link in the Upload Location column to download the uploaded files.</code></p>
-<p><code>To upload recordings, click on the Upload tab. Select your file for upload and enter the required information about the recording.</code>
-Your dataset should be <a href="https://bids-specification.readthedocs.io/">BIDS-compliant</a>.</p>
+<p><code>To upload recordings, click on the Upload tab. Select your file for upload and enter the required information about the recording.</code>  </p>
+<p>ℹ️ <strong>Note:</strong> Your dataset should be <a href="https://bids-specification.readthedocs.io/">BIDS-compliant</a>.  </p>
 <h2 id="large-datasets">Large Datasets 🔵</h2>
 <p>Large Datasets involve higher data volumes that are more efficiently transferred in bulk using secure file transfer (SFTP), typically following data preparation steps to ensure integrity and performance.<br />
 If you have many files or files larger than <code>TBD</code> MB, follow this process to transfer everything securely and efficiently.</p>
@@ -1496,16 +1498,15 @@ Use the same email address and password that you use to sign in to your ARCHIMED
 <li><strong>Protocol:</strong> <code>SFTP - SSH File Transfer Protocol</code></li>
 <li><strong>Host:</strong> <code>cbigr-ftp-internal-contribution.loris.ca</code></li>
 <li><strong>Port:</strong> <code>7515</code></li>
-<li><strong>Logon Type:</strong> <code>Normal</code></li>
+<li><strong>Logon Type:</strong> <code>Ask for password</code></li>
 <li><strong>User:</strong> Your ARCHIMEDES account email address</li>
 <li><strong>Password:</strong> Your ARCHIMEDES account password</li>
 </ul>
-<p>➡️ Select the <strong>Advanced</strong> tab and set <strong>Bypass proxy</strong> as the <strong>Proxy type</strong>.  </p>
-<p>➡️ Click <em>Connect</em>.</p>
-<p><img alt="Connectinfo" src="../images/filezilla_detstoenter.png" /></p>
-<p><img alt="bypass" src="../images/filezillabypass.png" /></p>
 <p>➡️ When you connect to the SFTP server for the first time, FileZilla displays an <strong>Unknown host key</strong> message.</p>
-<p>Verify that the <strong>Host</strong> matches the SFTP server address, select <em>Always trust this host, add this key to the cache</em> box  and click OK.</p>
+<ul>
+<li>Verify that the <strong>Host</strong> matches the SFTP server address, select <em>Always trust this host, add this key to the cache</em> box  and click OK.</li>
+<li>Ensure that the <em>Fingerprint</em> also matches.</li>
+</ul>
 <p><img alt="Unknown host key" src="../images/filezilla_unknownhostkey.png" /></p>
 <p><strong>2. Upload Files to the Remote Site</strong></p>
 <p>Once you are connected: <br />
@@ -1513,7 +1514,7 @@ Use the same email address and password that you use to sign in to your ARCHIMED
 ➡️ In the <strong>Remote site</strong> pane (right), the contents of the SFTP server are displayed.  <br />
 ➡️ Double-click the <strong>uploads</strong> folder to open it.  </p>
 <p><img alt="connected" src="../images/filezillaconnected.png" /></p>
-<p>➡️ The <strong>FDGP</strong> folder will appear.<br />
+<p>➡️ Each project has its own upload folder. In this example, the data is uploaded to the <strong>FDGP</strong> folder. <br />
 ➡️ Upload your data to this folder by dragging and dropping the selected files or folders from the <strong>Local site</strong> to the <strong>Remote site</strong>, or by right-clicking the selected item and choosing <strong>Upload</strong>. </p>
 <p><img alt="FDGP" src="../images/uploadtoFDGP.png" />
 <img alt="completed" src="../images/uploadcomplete.png" /></p>
