@@ -44,7 +44,9 @@ Small Datasets include individual files or modest data volumes `size TBD` that c
 
 ### BIDS Uploader
 
-`TBD`
+`TBD`  
+ℹ️ **Note:** Your dataset should be [BIDS-compliant](https://bids-specification.readthedocs.io/).  
+💡 For more information about the **Brain Imaging Data Structure (BIDS)** standard format, visit our [BIDS Overview](https://www.archimedesdata.ca/resources/data-standards/bids-overview/) resource.  
 
 ### Instrument Manager
 
@@ -100,8 +102,10 @@ The Electrophysiology Browser module allows you to review, filter, annotate and 
 `
 
 `To upload recordings, click on the Upload tab. Select your file for upload and enter the required information about the recording.
-`
-Your dataset should be [BIDS-compliant](https://bids-specification.readthedocs.io/).
+`  
+
+ℹ️ **Note:** Your dataset should be [BIDS-compliant](https://bids-specification.readthedocs.io/).  
+
 
 ## Large Datasets 🔵
 
@@ -177,21 +181,14 @@ The following steps describe how to connect to the SFTP server and upload your d
 - **Protocol:** `SFTP - SSH File Transfer Protocol`
 - **Host:** `cbigr-ftp-internal-contribution.loris.ca`
 - **Port:** `7515`
-- **Logon Type:** `Normal`
+- **Logon Type:** `Ask for password`
 - **User:** Your ARCHIMEDES account email address
 - **Password:** Your ARCHIMEDES account password
 
-➡️ Select the **Advanced** tab and set **Bypass proxy** as the **Proxy type**.  
-
-➡️ Click *Connect*.
-
-![Connectinfo](images/filezilla_detstoenter.png)
-
-![bypass](images/filezillabypass.png)
-
 ➡️ When you connect to the SFTP server for the first time, FileZilla displays an **Unknown host key** message.
 
-Verify that the **Host** matches the SFTP server address, select *Always trust this host, add this key to the cache* box  and click OK.
+- Verify that the **Host** matches the SFTP server address, select *Always trust this host, add this key to the cache* box  and click OK.
+- Ensure that the *Fingerprint* also matches.
 
 ![Unknown host key](images/filezilla_unknownhostkey.png)
 
@@ -204,7 +201,7 @@ Once you are connected:
 
 ![connected](images/filezillaconnected.png)
 
-➡️ The **FDGP** folder will appear.  
+➡️ Each project has its own upload folder. In this example, the data is uploaded to the **FDGP** folder.   
 ➡️ Upload your data to this folder by dragging and dropping the selected files or folders from the **Local site** to the **Remote site**, or by right-clicking the selected item and choosing **Upload**. 
 
 ![FDGP](images/uploadtoFDGP.png)
