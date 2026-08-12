@@ -1,5 +1,1 @@
-This section outlines the ARCHIMEDES Data Contribution process, including establishing a Data Contribution Agreement (DCA), creating an account, setting up a project, and submitting a Data Contribution Form (DCF). Guidance is provided for both Principal Investigators (PIs) and non-Principal Investigators. It also introduces the roles of the Data Access Committee (DAC) and the Data Access Compliance Office (DACO).
-
-
-
-   
+Cette section présente le processus de partage de données d’ARCHIMEDES, notamment l’établissement d’un **accord de contribution de données** (DCA), la création d’un compte, la création d’un projet et la soumission d’un **formulaire de contribution** de données (DCF). Elle fournit des informations destinées aux chercheurs principaux (CP) ainsi qu’aux chercheurs non-principaux. Elle présente également les rôles du comité d’accès aux données ARCHIMEDES (DAC) et du bureau de conformité de l’accès aux données ARCHIMEDES (DACO).

@@ -1,5 +1,6 @@
 
 site_name: ARCHIMEDES User Support Documentation
+site_url: https://archimedes-data.github.io/ARCHIMEDES-wiki/
 
 theme:
   name: material
