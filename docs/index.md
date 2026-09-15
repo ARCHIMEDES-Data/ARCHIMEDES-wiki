@@ -7,7 +7,7 @@
 
 This guide is intended for users getting started with [ARCHIMEDES](https://www.archimedesdata.ca/). It provides step-by-step instructions on account creation, data access, data transfer, data release, and how to search and analyze data within the platform.
 
-For more information, refer to the [FAQ](https://www.archimedesdata.ca/frequently-asked-questions/) or [Data Governance Framework](https://www.archimedesdata.ca/wp-content/uploads/2026/05/ARCHIMEDES-Data-Governance-Framework-V1-January-2026.pdf)
+For more information, refer to the [FAQ](https://www.archimedesdata.ca/frequently-asked-questions/) or [Data Governance Framework](https://www.archimedesdata.ca/wp-content/uploads/2026/09/ARCHIMEDES-Data-Governance-Framework-V2-August-2026.pdf)
 
 ## What is ARCHIMEDES? <img width="30" height="30" alt="01 Icon Black" src="https://github.com/user-attachments/assets/49add4e1-f9e4-43c3-ae99-1ce3334824b2" />
   
