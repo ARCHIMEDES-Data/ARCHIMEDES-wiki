@@ -11,7 +11,7 @@ For more information, refer to the [FAQ](https://www.archimedesdata.ca/frequentl
 
 ## What is ARCHIMEDES? <img width="30" height="30" alt="01 Icon Black" src="https://github.com/user-attachments/assets/49add4e1-f9e4-43c3-ae99-1ce3334824b2" />
   
-[ARCHIMEDES](https://www.archimedesdata.ca/) (**A**dvanced **R**esearch **C**ollaboration for **H**ealth **I**ntegration, **MED**ical **E**xploration, and data **S**ynthesis) is a platform that enables researchers to store, manage, share, and access highly structured health-related research data. It also provides a High-Performance Computing (HPC) environment, through which users can analyze ARCHIMEDES data. 
+[ARCHIMEDES](https://www.archimedesdata.ca/) (**A**dvanced **R**esearch **C**ollaboration for **H**ealth **I**ntegration, **MED**ical **E**xploration, and data **S**ynthesis) is a digital health platform that ingests, manages, and/or releases Data Sets for research purposes including: biostatistical analyses, predictive modelling, data visualization and artificial intelligence. It also provides a High-Performance Computing (HPC) environment, through which users can analyze ARCHIMEDES data, without requiring external infrastructure.  
 
 All data available on ARCHIMEDES are [coded and/or de-identified](https://archimedesdata.ca/resources/data-de-identification/) prior to upload to ensure privacy and compliance.
 
@@ -32,7 +32,7 @@ Within [ARCHIMEDES](https://www.archimedesdata.ca/), you can:
 
 By simplifying how health data is accessed and used, [ARCHIMEDES](https://www.archimedesdata.ca/) enables you to focus on advancing research and generating meaningful impact on health.
   
-🧭 Our vision is to transform the Canadian health data landscape by building a bilingual national platform for the curation and reuse of health-related research data. [ARCHIMEDES](https://www.archimedesdata.ca/) provides secure and flexible access to health data, enabling collaboration and innovation at a national scale.  
+🧭 Our vision is to provide a bilingual national health data platform that provides centralized and flexible access to curated health research data, which can be analyzed using state-of-the-art distributed computing tools.  [ARCHIMEDES](https://www.archimedesdata.ca/)   is equipped to ingest all health data including multimodal health data (e.g., behavioural data, imaging data, wearables data). 
   
 ## What types of data are hosted? 🧬
 
@@ -44,21 +44,22 @@ By simplifying how health data is accessed and used, [ARCHIMEDES](https://www.ar
 Data on ARCHIMEDES is presently shared through two tiers:  
 
 **1. Controlled Access 🔒**  
-➡️ Data are exclusively made available to Principal Investigators (PIs) and their Research Team, for an approved research purpose. Applicants must first obtain approval from the ARCHIMEDES Data Access Committee (DAC) and enter into a Data Access Agreement (DAA). 
+➡️ Data are only available to approved researchers for specific research projects. Researchers must apply for access and agree to follow privacy, ethics, and data use requirements before using the data.   
+➡️ ARCHIMEDES allows for coded data, de-identified data, and pre-clinical data through Controlled Access. 
 
-ℹ️: **DARs can only be submitted by Principal Investigators (PI)**
+ℹ️: **Data Access Request (DAR) can only be submitted by Principal Investigators (PI)**
 
 **2. Open Access 🔓**  
-➡️ Data are made openly available to anyone through [ARCHIMEDES](https://www.archimedesdata.ca/), on a public website. In this first phase of ARCHIMEDES, only pre-clinical (i.e., non-human) data are available via Open Access. 
+➡️ Data are made openly available to anyone through [ARCHIMEDES](https://www.archimedesdata.ca/), on a public website.   
+➡️ ARCHIMEDES allows for de-identified data and pre-clinical data through Open Access.  
 
-  
 A third tier, **Registered Data Access**, will be available for ARCHIMEDES users in the next phase of the platform’s development.
 
 ## How does ARCHIMEDES work? ⚙️
 
-[ARCHIMEDES](https://www.archimedesdata.ca/) supports multiple data types that can be ingested and harmonized within the platform. Once available, data can be securely accessed and analyzed using integrated tools for processing, data analysis, and visualization.  
-  
-➡️ The platform also provides a High-Performance Computing (HPC) environment, allowing users to perform analyses without requiring external infrastructure.  
+➡️ [ARCHIMEDES](https://www.archimedesdata.ca/)  operates as a centralized platform where data are securely stored and accessed in ways that respect to participant consent, privacy laws, and research ethics requirements (e.g. Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans – TCPS 2).  
+
+➡️ [ARCHIMEDES](https://www.archimedesdata.ca/) supports multiple data types that can be ingested and harmonized within the platform. Once available, data can be analyzed using integrated tools for processing, data analysis, and visualization.
     
 The schematic below illustrates the platform’s structure and capabilities.
 

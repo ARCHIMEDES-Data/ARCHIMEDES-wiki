@@ -49,7 +49,7 @@ Les données sur ARCHIMEDES sont actuellement partagées selon deux niveaux :
 ℹ️ : **Les demandes d’accès aux données (DAR) peuvent uniquement être soumises par les chercheurs principaux (CP)**
 
 **2. Accès libre 🔓**  
-➡️ Les données sont mises à la disposition de tous par l'intermédiaire d'ARCHIMEDES, sur un site Web public. Au cours de cette première phase d'ARCHIMEDES, seules les données précliniques (c.-à-d. non humaines) sont disponibles en accès libre.
+➡️ Les données sont mises à la disposition de tous par l'intermédiaire d'ARCHIMEDES, sur un site Web public. Actuellement, les données précliniques (c.-à-d. non humaines) et les données dépersonnalisées sont disponibles en accès libre.
 
 Un troisième niveau, **Données d’accès enregistrées**, sera disponible pour les utilisateurs d'ARCHIMEDES lors de la prochaine phase de développement de la plateforme.
 

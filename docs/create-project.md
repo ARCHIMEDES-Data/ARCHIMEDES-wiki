@@ -1,9 +1,11 @@
 Once your account creation is approved, you can begin the process of creating a new project.
 ARCHIMEDES supports two types of data contributions:
 
-* **Coded data**: Data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
+* **Coded data**: Data must have (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
 
-* **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
+* **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.  
+
+* **Pre-clinical data**: Data can be shared if it does not, nor did it ever, constitute data relating to human research participants, or identifiable personal data, according to applicable research ethics requirements and data protection laws. 
 
 There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and **Create a New Project** in ARCHIMEDES.
 

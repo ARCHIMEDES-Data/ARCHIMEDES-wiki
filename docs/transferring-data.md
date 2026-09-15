@@ -9,7 +9,7 @@
 
 💡**Tip**: Health data may contain direct identifiers (e.g., names, health card numbers, exact addresses), indirect identifiers (e.g., date of birth, postal code, rare diagnoses), or embedded identifiers (e.g., metadata in imaging files or text within images). These elements must be carefully reviewed and either removed or modified to protect privacy.  
   
-➡️ According to [ARCHIMEDES Data Submission](https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit), **Date of Birth** (DOB) is required as it supports data validation, structuring, and analysis (e.g., age consistency and longitudinal tracking). While the full format **MM-DD-YYYY** is preferred, users may alternatively provide **MM-YYYY** or **YYYY** when full DOB is not available or cannot be shared.  
+➡️ According to [ARCHIMEDES Data Submission](https://docs.google.com/document/d/1gpxSvGPcu3ioSSPNFqOJJtC5vvxRFu2t/edit), **Date of Birth** (DOB) is required as it supports data validation, structuring, and analysis (e.g., age consistency and longitudinal tracking). While the full format **YYYY-MM-DD** is preferred, users may alternatively provide **YYYY-MM** or **YYYY** when full DOB is not available or cannot be shared.  
 ➡️ If the year is not available, users may provide **age** only. In these cases, the system applies a default setting that calculates a standardized DOB based on the available information (month/year or age) to ensure consistency within the database structure, while still treating DOB as an indirect identifier and maintaining privacy protections.
 
 The sections below outline the recommended workflows and tools for each type of data transfer. Examples are provided at the end.
