@@ -1,5 +1,5 @@
 Once your account creation is approved, you can begin the process of creating a new project.
-ARCHIMEDES supports two types of data contributions:
+ARCHIMEDES supports three types of data contributions:
 
 * **Coded data**: Data must have (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
 
