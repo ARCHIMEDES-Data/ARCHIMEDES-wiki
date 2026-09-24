@@ -4,7 +4,7 @@ site_url: https://archimedes-data.github.io/ARCHIMEDES-wiki/
 
 theme:
   name: material
-  logo: images/archimedes_icon.png
+  logo: images/archimedes_icon.png.md
   features:
     - navigation.tabs
     - navigation.top
@@ -46,6 +46,7 @@ plugins:
             Analytical Tools: Outils analytiques
             Data Curation: Curation
             Data Release: Diffusion des données
+            Technical Guide: Technique
 
 nav:
   - Home: index.md
@@ -63,3 +64,4 @@ nav:
   - Analytical Tools: processing-tools.md
   - Data Curation: data-curation.md
   - Data Release: data-release.md
+  - Technical Guide: technical-guide.md
