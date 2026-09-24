@@ -10,7 +10,7 @@ Pour plus d'informations, consultez la [FAQ](https://www.archimedesdata.ca/fr/qu
 
 ## Qu’est-ce qu’ARCHIMEDES? <img width="30" height="30" alt="01 Icon Black" src="https://github.com/user-attachments/assets/49add4e1-f9e4-43c3-ae99-1ce3334824b2" />
 
-[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) ARCHIMEDES (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui permet de collecter, gérer et/ou diffuser des ensembles de données à des fins de recherche, notamment pour les analyses biostatistiques, les modélisations prédictives, les visualisations de données et les analyses basées sur l’intelligence artificielle. ARCHIMEDES fournit également un environnement de calcul haute performance (HPC) permettant aux utilisateurs d’analyser les données d’ARCHIMEDES sans avoir recours à une infrastructure externe.
+[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) ARCHIMEDES (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui permet de collecter, gérer et/ou diffuser des ensembles de données à des fins de recherche, notamment pour les analyses biostatistiques, les modélisations prédictives, les visualisations de données et les analyses basées sur l’intelligence artificielle. ARCHIMEDES fournit également un environnement de calcul haute performance (HPC) permettant aux utilisateurs d’analyser les données sans avoir recours à une infrastructure externe.
 
 Toutes les données disponibles sur ARCHIMEDES sont [codées et/ou dépersonnalisées](https://archimedesdata.ca/fr/ressources/depersonnalisation-des-donnees/) avant leur importation afin d'assurer la protection de la vie privée et la conformité.
 
@@ -55,9 +55,9 @@ Un troisième niveau, **Données d’accès enregistrées**, sera disponible pou
 
 ## Comment fonctionne ARCHIMEDES? ⚙️
 
-[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) prend en charge plusieurs types de données qui peuvent être ingérés et harmonisés au sein de la plateforme. Une fois disponibles, les données peuvent être consultées et analysées de manière sécurisée à l'aide d'outils intégrés de traitement, d'analyse des données et de visualisation.
+➡️ [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/)  fonctionne comme une plateforme centralisée où les données sont stockées et accessibles de manière sécurisée, dans le respect du consentement des participants, des lois sur la protection de la vie privée et des exigences en matière d’éthique de la recherche (p. ex., l’Énoncé de politique des trois conseils : Éthique de la recherche avec des êtres humains – EPTC 2).  
 
-➡️ La plateforme fournit également un environnement de calcul haute performance (HPC), permettant aux utilisateurs d'effectuer des analyses sans avoir besoin d'une infrastructure externe.
+➡️ [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) prend en charge plusieurs types de données qui peuvent être collectés et harmonisés au sein de la plateforme. Une fois disponibles, les données peuvent être consultées et analysées de manière sécurisée à l'aide d'outils intégrés de traitement, d'analyse des données et de visualisation.
 
 Le schéma ci-dessous illustre la structure et les capacités de la plateforme.
 
