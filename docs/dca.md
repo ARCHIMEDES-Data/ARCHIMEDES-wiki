@@ -22,10 +22,9 @@ Once a Data Contribution Agreement (DCA) is in place:
 
 ARCHIMEDES is guided by a clear and trusted committee structure that performs portfolio-specific decision-making and advisory functions. These committees include the ARCHIMEDES Leadership, Joint Liaison, Community Partners, the Data Access Committee (DAC), and the Data Access Compliance Office (DACO).
 
-- The Data Access Committee (DAC) oversees requests from prospective Data Users to access Controlled Access data with the administrative support of the Data Access Committee Office (DACO).
-- The DACO coordinates the DAC review of Data Access Requests and performs selected monitoring functions regarding the ongoing commitments of authorized Data Users. For data contribution, the DACO reviews the documentation demonstrating ethical and legal authority, including informed consent materials and ethics approvals, provided by Data Contributors for compatibility with ARCHIMEDES policies before authorizing data contribution. The DACO also reviews requests for Data Contributor and Data User credentials
-
-- For **data contribution**, the DACO reviews the documentation demonstrating ethical and legal authority, including informed consent materials and ethics approvals, provided by Data Contributors for compatibility with ARCHIMEDES policies. The Data Contribution is then sent to the DAC for final approval. The DACO also reviews requests for Data Contributor and Data User credentials.
+- The **Data Access Committee** (DAC) oversees requests from prospective Data Users to access Controlled Access data with the administrative support of the Data Access Compliance Office (DACO).
+- The **Data Access Compliance Office** (DACO) coordinates the DAC review of Data Access Requests and performs selected monitoring functions regarding the ongoing commitments of authorized Data Users.  
+- For **Data Contribution**, the DACO reviews the documentation demonstrating ethical and legal authority, including informed consent materials and ethics approvals, provided by Data Contributors for compatibility with ARCHIMEDES policies. The Data Contribution is then sent to the DAC for final approval. The DACO also reviews requests for Data Contributor and Data User credentials.
 
 💡**Note**: Only a Principal Investigator (PI) can create an account.
 
