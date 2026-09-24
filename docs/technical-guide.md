@@ -11,8 +11,6 @@ This guide provides instructions for preparing and submitting BIDS-formatted ima
 
 [BIDS Imaging Guide](technical-guide/BIDS_ingestion.pdf)
 
-This guide provides instructions for preparing and submitting BIDS-formatted imaging data.
-
 ### DICOM Imaging
 
 This guide provides instructions for preparing and submitting DICOM imaging data.
