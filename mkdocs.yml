@@ -4,7 +4,7 @@ site_url: https://archimedes-data.github.io/ARCHIMEDES-wiki/
 
 theme:
   name: material
-  logo: images/archimedes_icon.png.md
+  logo: images/archimedes_icon.png
   features:
     - navigation.tabs
     - navigation.top
