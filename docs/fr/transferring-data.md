@@ -393,6 +393,8 @@ The following section outlines the process for transferring data to ARCHIMEDES t
 * The Privacy Office reviews the request
 * Once approved, you will be contacted by the Privacy team to grant access to your data location
 
+ℹ️ Note: Data Analytics review is not required for **pre-clinical** data ingestion.
+
 ➡️ **Step 3: De-identification (UOHI) 🔐**
 
 * Your data is reviewed and prepared to meet privacy requirements
