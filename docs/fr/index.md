@@ -10,8 +10,7 @@ Pour plus d'informations, consultez la [FAQ](https://www.archimedesdata.ca/fr/qu
 
 ## Qu’est-ce qu’ARCHIMEDES? <img width="30" height="30" alt="01 Icon Black" src="https://github.com/user-attachments/assets/49add4e1-f9e4-43c3-ae99-1ce3334824b2" />
 
-[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) ARCHIMEDES (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui permet de collecter, gérer et/ou diffuser des ensembles de données à des fins de recherche, notamment pour les analyses biostatistiques, les modélisations prédictives, les visualisations de données et les analyses basées sur l’intelligence artificielle. ARCHIMEDES fournit également un environnement de calcul haute performance (HPC) permettant aux utilisateurs d’analyser les données sans avoir recours à une infrastructure externe.
-
+[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) ARCHIMEDES (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui collecte, gère et/ou diffuse des ensembles de données à des fins de recherche, notamment : analyses biostatiques, modélisation prédictive, visualisation de données et intelligence artificielle. Elle fournit également un environnement de calcul haute performance (HPC), grâce auquel les utilisateurs peuvent analyser les données d’ARCHIMEDES.  
 Toutes les données disponibles sur ARCHIMEDES sont [codées et/ou dépersonnalisées](https://archimedesdata.ca/fr/ressources/depersonnalisation-des-donnees/) avant leur importation afin d'assurer la protection de la vie privée et la conformité.
 
 ## Pourquoi utiliser ARCHIMEDES? 🤝
@@ -31,7 +30,7 @@ Avec [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/), vous pouvez :
 
 En simplifiant la façon dont les données de santé sont accessibles et utilisées, [ARCHIMEDES](https://www.archimedesdata.ca/) vous permet de vous concentrer sur l'avancement de la recherche et la création d'un impact significatif sur la santé.
 
-🧭 Notre vision consiste à offrir une plateforme nationale bilingue de données sur la santé permettant un accès centralisé et flexible à des données de recherche en santé sélectionnées et organisées, qui peuvent être analysées à l’aide d’outils de calcul distribué de pointe. [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) est équipé pour ingérer tous types de données sur la santé, y compris des données multimodales sur la santé (p. ex., des données comportementales, des données d’imagerie et des données provenant de dispositifs portables).
+🧭 Notre vision consiste à mettre en place une plateforme nationale bilingue de données de santé offrant un accès centralisé et flexible à des données de recherche en santé validées, pouvant être analysées à l’aide d’outils informatiques distribués de pointe. [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) est capable de traiter toutes les données de santé, y compris les données multimodales (par exemple, les données comportementales, les données d’imagerie, les données issues d’appareils portables).  
 
 ## Quels types de données sont hébergés? 🧬
 
@@ -55,7 +54,7 @@ Un troisième niveau, **Données d’accès enregistrées**, sera disponible pou
 
 ## Comment fonctionne ARCHIMEDES? ⚙️
 
-➡️ [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/)  fonctionne comme une plateforme centralisée où les données sont stockées et accessibles de manière sécurisée, dans le respect du consentement des participants, des lois sur la protection de la vie privée et des exigences en matière d’éthique de la recherche (p. ex., l’Énoncé de politique des trois conseils : Éthique de la recherche avec des êtres humains – EPTC 2).  
+➡️ [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) fonctionne comme une plateforme centralisée où les données sont stockées en toute sécurité et accessibles dans le respect du consentement des participants, des lois sur la protection de la vie privée et des exigences en matière d’éthique de la recherche (par exemple, la Déclaration de principe des trois conseils : Conduite éthique de la recherche avec des êtres humains – TCPS 2).   
 
 ➡️ [ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) prend en charge plusieurs types de données qui peuvent être collectés et harmonisés au sein de la plateforme. Une fois disponibles, les données peuvent être consultées et analysées de manière sécurisée à l'aide d'outils intégrés de traitement, d'analyse des données et de visualisation.
 
