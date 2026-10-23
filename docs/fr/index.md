@@ -10,7 +10,7 @@ Pour plus d'informations, consultez la [FAQ](https://www.archimedesdata.ca/fr/qu
 
 ## Qu’est-ce qu’ARCHIMEDES? <img width="30" height="30" alt="01 Icon Black" src="https://github.com/user-attachments/assets/49add4e1-f9e4-43c3-ae99-1ce3334824b2" />
 
-[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) ARCHIMEDES (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui collecte, gère et/ou diffuse des ensembles de données à des fins de recherche, notamment : analyses biostatiques, modélisation prédictive, visualisation de données et intelligence artificielle. Elle fournit également un environnement de calcul haute performance (HPC), grâce auquel les utilisateurs peuvent analyser les données d’ARCHIMEDES.  
+[ARCHIMEDES](https://www.archimedesdata.ca//fr/home-fr/) (Advanced Research Collaboration for Health Integration, Medical Exploration, and Data Synthesis) est une plateforme de santé numérique qui collecte, gère et/ou diffuse des ensembles de données à des fins de recherche, notamment : analyses biostatiques, modélisation prédictive, visualisation de données et intelligence artificielle. Elle fournit également un environnement de calcul haute performance (HPC), grâce auquel les utilisateurs peuvent analyser les données d’ARCHIMEDES.  
 Toutes les données disponibles sur ARCHIMEDES sont [codées et/ou dépersonnalisées](https://archimedesdata.ca/fr/ressources/depersonnalisation-des-donnees/) avant leur importation afin d'assurer la protection de la vie privée et la conformité.
 
 ## Pourquoi utiliser ARCHIMEDES? 🤝

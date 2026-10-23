@@ -1,59 +1,61 @@
-Once your account creation is approved, you can begin the process of creating a new project.
-ARCHIMEDES supports three types of data contributions:
+Une fois la création de votre compte approuvée, vous pouvez commencer le processus de création d’un nouveau projet. ARCHIMEDES prend en charge trois types de partage de données :
 
-* **Coded data**: Data subject to (i) an ethics approval and informed consent that authorize sharing; (ii) an ethics waiver of informed consent requirement, or (iii) another legal authorization. All direct identifiers (e.g., names, social insurance numbers) must be removed and replaced with a unique code prior to contribution.
+* **Données codées**: les données doivent être accompagnées (i) d’une autorisation éthique et d’un consentement éclairé autorisant leur partage, (ii) d’une dérogation éthique à l’obligation de consentement éclairé, ou (iii) d’une autre autorisation légale. Tous les identifiants directs (par exemple, noms, numéros de sécurité sociale) doivent être supprimés et remplacés par un code unique avant le partage.
 
-* **De-identified data**: Data can be shared if it is de-identified (or local equivalent). This requires that all direct identifiers and most indirect identifiers must be removed or transformed to reduce the risk of re-identification to a very low level, in accordance with recognized standards and applicable legal and ethical requirements.
+* **Dépersonnalisation des données**: les données peuvent être partagées si elles sont anonymisées (ou leur équivalent local). Cela implique que tous les identifiants directs et la plupart des identifiants indirects soient supprimés ou transformés afin de réduire le risque de réidentification à un niveau très faible, conformément aux normes reconnues et aux exigences juridiques et éthiques applicables.
 
-There are two main steps to create a new project, submit a **Data Contribution Form** (DCF) and **Create a New Project** in ARCHIMEDES.
+* **Données précliniques** : les données peuvent être partagées si elles ne constituent pas, et n’ont jamais constitué, des données relatives à des participants à la recherche humaine, ni des données à caractère personnel identifiables, conformément aux exigences éthiques applicables en matière de recherche et aux lois sur la protection des données.  
+ARCHIMEDES.  
 
-## **Submit a Data Contribution Form (DCF)**
+La création d’un nouveau projet comporte deux étapes principales : soumettre un **Formulaire de Contribution de Données (DCF)**, puis **créer un nouveau projet** dans ARCHIMEDES.
 
-➡️  From the dashboard, go to _Project Requests_  and click on _Create New Project_.
+## **Soumettre un Formulaire de Contribution de Données (DCF)**
+
+➡️ À partir du tableau de bord, accédez à _Project Requests_  et cliquez sur _Create New Project_.
 
 <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/fec09b12-4f17-4f61-bcde-10277c3c4984" />
 
-➡️  A _Create New Project_ window will open, asking you to enter the study name and the Principal Investigator’s (PI’s) information.
+➡️ Une fenêtre _Create New Project_ s’ouvrira et vous demandera de saisir le nom de l’étude ainsi que les informations du chercheur principal (CP).
 
-**ℹ️Note**: PI's information is autopopulated based on the account information. If the information you see is incorrect, you can modify it in the "my preferences", section available under your name.
+**ℹ️Note**: Les informations du CP sont remplies automatiquement à partir des renseignements associés à son compte. Si elles sont incorrectes, vous pouvez les modifier dans la section « My Preferences », accessible sous votre nom.
 
-➡️  Click _Next_.
+➡️ Cliquez sur _Next_.
 
 ![img_4.png](img_4.png)
 
-➡️ Agree to the Data Contributor Terms of Use and click on _Agree & Create New Project_.
+➡️ Acceptez les conditions d’utilisation des contributeurs de données (Data Contributor Terms of Use), puis cliquez sur _Agree & Create New Project_.
 
 ![img_5.png](img_5.png)
 
 ![img_7.png](img_7.png){ width=300 .center }
 
-➡️ The project will be registered and a confirmation window will open displaying a unique **Request ID** and a link to complete the Data Contribution Form (DCF). A confirmation email will also be sent containing this information.
+➡️ Le projet sera enregistré et une fenêtre de confirmation s’ouvrira, affichant un identifiant de demande (Request ID) unique ainsi qu’un lien permettant de remplir le Formulaire de Contribution de Données (DCF). Un courriel de confirmation contenant ces mêmes informations vous sera également envoyé.
 
 ![img_8.png](img_8.png)
 
-➡️  Complete the DCF [MS form link](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
+➡️ Remplissez le [Formulaire de Contribution de Données (DCF)](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
 
-➡️  **Send The DCF (pdf format) with the requested supporting material to the Data Access Committee Office (DACO) at [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
+➡️ **Envoyez le DCF au format PDF, accompagné des pièces justificatives demandées, au Bureau de conformité de l’accès aux données ARCHIMEDES (DACO) à l’adresse suivante : [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
 
-➡️  This _New Project_ will be pending until the DACO uploads the approved DCF.
+➡️ La demande du nouveau project restera en attente jusqu’à ce que le DACO ajoute le formulaire de contribution de données (DCF) approuvé à la plateforme.
 
-➡️ From the dashboard, you can track the status of your project request under _Project Requests_. Click on the status to view additional details.
+➡️ À partir du tableau de bord, vous pouvez suivre l’état de votre demande de projet dans la section _Project Requests_. Cliquez sur le statut pour afficher des informations supplémentaires.  
 
 ![img_9.png](img_9.png){ .center }
 
-➡️ Approval status will be updated in a timely matter. 
+➡️ Le statut d’approbation sera mis à jour dans les meilleurs délais.
 
-➡️ You will receive an email confirming that your ARCHIMEDES project has been created. You can then log in to access your project on the platform.
+➡️ Vous recevrez un courriel confirmant la création de votre projet ARCHIMEDES. Vous pourrez alors vous connecter à la plateforme pour accéder à votre projet.
 
-➡️  Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
+➡️ Une fois le DCF approuvé par le DACO, cliquez sur le statut (DCF Approved), puis passez à l’étape suivante.
 
 ![img_10.png](img_10.png){ .center }  
 
 ![Project creation](images/Projectcreation_dcfapproval.png){ width=700 .center }
 
-## **Create a New Project**
+## **Créer un nouveau projet**
 
-To create a new project, complete the sections below with information about your study.
+Pour créer un nouveau projet, remplissez les sections ci-dessous avec les informations relatives à votre étude.
 
 ### 🗂️ Project information
 

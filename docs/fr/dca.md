@@ -1,35 +1,39 @@
-Principal Investigators (PIs) can contribute data to [ARCHIMEDES](https://www.archimedesdata.ca/) by requesting Data Contribution Permissions. As a first step, organizations must enter into a Data Contribution Agreement (DCA).  
-If your organization does not yet have a DCA, the ARCHIMEDES team will work with you to establish one. If you have any questions, please don't hesitate to contact the ARCHIMEDES team at [ARCHIMEDES@ottawaheart.ca](mailto:ARCHIMEDES@ottawaheart.ca) 
+Les chercheurs principaux (CP) peuvent partager des données sur [ARCHIMEDES](https://www.archimedesdata.fr/home-fr/) en demandant des autorisations de partage de données. La première étape consiste pour l’organisation à conclure un accord de contribution de données (DCA).
 
-⚠️ **No account creation or data submission can occur before the DCA is agreed to.**
+Si votre organisation n’a pas encore conclu de DCA, l’équipe ARCHIMEDES collaborera avec vous pour en établir un. Pour toute question, n’hésitez pas à communiquer avec l’équipe ARCHIMEDES à l’adresse  [ARCHIMEDES@ottawaheart.ca](mailto:ARCHIMEDES@ottawaheart.ca) 
 
-## ➡️ **Data Contribution Agreement (DCA)**
+⚠️ **Aucun compte ne peut être créé et aucune donnée ne peut être soumise avant la conclusion du DCA.**
 
-This agreement is established once per organization and will provide contribution permissions to chosen Principal Invetigators (PIs) from that organization. The Data Contribution Agreement (DCA) defines responsibilities, permissions, and governance requirements. Your organization must enter into a DCA before you can contribute data to ARCHIMEDES. If your organization does not yet have a DCA, the ARCHIMEDES team will work with you to establish one. If you have any questions, please don't hesitate to contact the ARCHIMEDES team at ARCHIMEDES@ottawaheart.ca
+## ➡️ **Accord de contribution de données (DCA)**
 
-⚠️ **No account creation or data submission can occur before the DCA is agreed to.** 
+Cet accord est établi une seule fois par organisation et accorde des autorisations de partage de données aux chercheurs principaux (CP) désignés par cette organisation. L’accord de contribution de données (DCA) définit les responsabilités, les autorisations et les exigences en matière de gouvernance.
 
-Once a Data Contribution Agreement (DCA) is in place:
+Votre organisation doit conclure un DCA avant de pouvoir partager des données sur ARCHIMEDES. 
 
-1. Your institution approves designated Principal Investigators (PIs).
-2. Approved PIs create an ARCHIMEDES account.
-3. Before proceeding, users must agree to the Terms of Use and confirm that all contributed data will be handled and shared in accordance with:
-    - Ethical approvals ✅
-    - Legal requirements ⚖️  
-    - ARCHIMEDES governance policies 🏛️  
+Une fois le DCA conclu :
 
-## ➡️ **Data Access Committee (DAC) and Data Access Compliance Office (DACO)**
+1. Votre établissement approuve les chercheurs principaux (CP) désignés.
+2. Les CP approuvés créent un compte ARCHIMEDES.
+3. Avant de poursuivre, les utilisateurs doivent accepter les conditions d’utilisation et confirmer que toutes les données partagées seront traitées et partagées conformément aux exigences suivantes :
+    - Approbations éthiques ✅
+    - Exigences légales ⚖️  
+    - Politiques de gouvernance des données d’ARCHIMEDES 🏛️  
 
-ARCHIMEDES is guided by a clear and trusted committee structure who perform portfolio-specific decision-making and advisory functions. These committees include the ARCHIMEDES Leadership, Joint Liaison, Community Partners, the Data Access Committee (DAC), and the Data Access Compliance Office (DACO).
+## ➡️ **Comité d’accès aux données ARCHIMEDES (DAC) et Bureau de conformité de l’accès aux données ARCHIMEDES (DACO)**
 
-The Data Access Committee (DAC) oversees requests from prospective Data Users to access Controlled Access data with the administrative support of the Data Access Committee Office (DACO).
-The ARCHIMEDES Data Access Committee (DAC) Terms of Reference can be found [here](https://osf.io/vd89b/files/p4dct). 
-The DACO coordinates the DAC review of Data Access Requests and performs select monitoring functions regarding the ongoing commitments of authorized Data Users. For data contribution, the DACO reviews the documentation demonstrating ethical and legal authority, including informed consent materials and ethics approvals, provided by Data Contributors for compatibility with ARCHIMEDES policies before authorizing data contribution. The DACO also reviews requests for Data Contributor and Data User credentials
+ARCHIMEDES s’appuie sur une structure de comités clairement définie et fiable, chargés de prendre des décisions et de fournir des conseils dans leurs domaines de responsabilité respectifs. Ces comités comprennent la direction d’ARCHIMEDES, le comité de liaison conjoint, les partenaires communautaires, le comité d’accès aux données ARCHIMEDES (DAC) et le bureau de conformité de l’accès aux données ARCHIMEDES (DACO).
 
+Le DAC examine les demandes d’accès aux données à accès contrôlé soumises par les utilisateurs potentiels, avec le soutien administratif du DACO.
 
-At this stage,  an account creation can only be completed by a Principal Investigator (PI). 
+Les termes de référence du comité d’accès aux données ARCHIMEDES (DAC) sont disponibles [en ligne](https://osf.io/vd89b/files/p4dct). 
 
-More information can be found on the [FAQ](https://www.archimedesdata.ca/frequently-asked-questions/) and the [Data Governance Framework](https://www.archimedesdata.ca/wp-content/uploads/2026/05/ARCHIMEDES-Data-Governance-Framework-V1-January-2026.pdf).
+Le DACO coordonne l’examen des demandes d’accès aux données par le DAC et assure certaines fonctions de suivi concernant le respect continu des engagements des utilisateurs autorisés.
+
+Dans le cadre du partage de données, le DACO examine les documents fournis par les contributeurs de données pour démontrer leur autorité éthique et juridique, notamment les documents de consentement éclairé et les approbations éthiques. Cet examen vise à vérifier la conformité aux politiques d’ARCHIMEDES avant d’autoriser le partage des données. Le DACO examine également les demandes d’obtention d’identifiants de contributeur de données et d’utilisateur de données.
+
+À ce stade, seul un chercheur principal (CP) peut créer un compte.  
+
+Pour en savoir plus, consultez la [FAQ](https://www.archimedesdata.ca/fr/questions-frequemment-posees/) et le cadre de [Gouvernance des données](https://www.archimedesdata.ca/wp-content/uploads/2026/05/ARCHIMEDES-Data-Governance-Framework-V1-January-2026.pdf) d’ARCHIMEDES.
 
 
 

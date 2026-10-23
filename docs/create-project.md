@@ -11,11 +11,11 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ## **Submit a Data Contribution Form (DCF)**
 
-➡️  From the dashboard, go to _Project Requests_  and click on _Create New Project_.
+➡️ From the dashboard, go to _Project Requests_  and click on _Create New Project_.
 
 <img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/fec09b12-4f17-4f61-bcde-10277c3c4984" />
 
-➡️  A _Create New Project_ window will open, asking you to enter the study name and the Principal Investigator’s (PI’s) information.
+➡️ A _Create New Project_ window will open, asking you to enter the study name and the Principal Investigator’s (PI’s) information.
 
 **ℹ️Note**: PI's information is autopopulated based on the account information. If the information you see is incorrect, you can modify it in the "my preferences", section available under your name.
 
@@ -33,11 +33,11 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ![img_8.png](img_8.png)
 
-➡️  Complete the DCF [MS form link](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
+➡️ Complete the DCF [MS form link](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
 
-➡️  **Send The DCF (pdf format) with the requested supporting material to the Data Access Committee Office (DACO) at [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
+➡️ **Send The DCF (pdf format) with the requested supporting material to the Data Access Committee Office (DACO) at [archimedes.daco@ottawaheart.ca](mailto:archimedes.daco@ottawaheart.ca)**.
 
-➡️  This _New Project_ will be pending until the DACO uploads the approved DCF.
+➡️ This _New Project_ will be pending until the DACO uploads the approved DCF.
 
 ➡️ From the dashboard, you can track the status of your project request under _Project Requests_. Click on the status to view additional details.
 
@@ -47,7 +47,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ You will receive an email confirming that your ARCHIMEDES project has been created. You can then log in to access your project on the platform.
 
-➡️  Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
+➡️ Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
 
 ![img_10.png](img_10.png){ .center }  
 
