@@ -33,6 +33,7 @@ Users who are not Principal Investigators (PIs) cannot create an [ARCHIMEDES](ht
 ➡️ Step 1: From the dashboard, navigate go to the _Admin_ tab and select _User Accounts_  
 
 ![invitenon_pi_1](images/invitenon_pi_step1.png)  
+
 ➡️ Step 2: Click on _Invite Users_  
 
 ![step2](images/invitenon_pi_step2.png)    
