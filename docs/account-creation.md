@@ -33,13 +33,13 @@ Users who are not Principal Investigators (PIs) cannot create an [ARCHIMEDES](ht
 ➡️ Step 1: From the dashboard, navigate go to the _Admin_ tab and select _User Accounts_  
 
 ![invitenon_pi_1](images/invitenon_pi_step1.png)  
-➡️ Step 2: Click on _Invite Users_
+➡️ Step 2: Click on _Invite Users_  
 
-![step2](images/invitenon_pi_step2.png)  
+![step2](images/invitenon_pi_step2.png)    
 
 ➡️ Step 3:  An _Invite Users_ window will appear. Complete the required fields with the collaborator's information and click Submit to send the invitation.
 
-![step3](images/invitenon_pi_step3.png)
+![step3](images/invitenon_pi_step3.png)  
 
 ➡️ What happens next? The collaborator will receive two emails:  
 
