@@ -39,15 +39,17 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ This _New Project_ will be pending until the DACO uploads the approved DCF.
 
-➡️ From the dashboard, you can track the status of your project request under _Project Requests_. Click on the status to view additional details.
+➡️ From the dashboard, you can track the status of your Project Request under _Project Requests_. Click on the status to view additional details.
 
 ![img_9.png](img_9.png){ .center }
 
 ➡️ Approval status will be updated in a timely matter. 
 
-➡️ You will receive an email confirming that your ARCHIMEDES project has been created. You can then log in to access your project on the platform.
+➡️ You will receive an email confirming that your DCF has been approved by the DACO and your Project Request has been validated. If additional information is needed, you may be contacted for clarification.
 
-➡️ Once the DCF is approved by the DACO, click on the status (_DCF Approved_) and proceed to the next step.  
+➡️ You can then log in to access your project on the platform.
+
+➡️ Click on the status (_DCF Approved_) and proceed to the next step.  
 
 ![img_10.png](img_10.png){ .center }  
 
@@ -136,6 +138,6 @@ The example below shows the Imaging form, which is required when Imaging is sele
 
 ![img_21.png](img_21.png)
 
-⏳ Your project request is now under administrative review.
+⏳ Your Project Creation is now under administrative review.
 
 If additional information is required, the ARCHIMEDES team will contact you. Once approved, you will receive an email outlining the next steps.

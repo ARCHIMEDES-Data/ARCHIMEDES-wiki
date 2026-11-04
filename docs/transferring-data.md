@@ -353,7 +353,7 @@ The files will be placed in the expected folder structure:
 
 This is the REDCap data dictionary exported from your REDCap project. It defines all the instruments and their fields. The pipeline will use it to install instruments into ARCHIMEDES automatically.
 
-➡️  For reference, visit the [ARCHIMEDES Data Ingestion guidelines](https://docs.google.com/document/d/1QgkF85c_FDSzAINXeDtxiX6h1f8v9ZaD/edit) for behavioural data.
+➡️  For reference, visit the [ARCHIMEDES Data Ingestion CNMDP guideline](https://docs.google.com/document/d/1QgkF85c_FDSzAINXeDtxiX6h1f8v9ZaD/edit) for behavioural data.
 
 #### Data transfer 
 
