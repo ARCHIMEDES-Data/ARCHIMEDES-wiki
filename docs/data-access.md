@@ -6,7 +6,7 @@ Currently, data is shared through two access tiers:
   
 ## Open Access 🔓
 
-Data is publicly available through ARCHIMEDES.
+De-identified and Pre-clinical data are publicly available through ARCHIMEDES.
 
 * No account is required to view or use Open Access data
 * Users must agree to the Terms of Use before accessing the data

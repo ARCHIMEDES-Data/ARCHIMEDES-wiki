@@ -8,20 +8,21 @@ Dans cette section, nous vous guiderons étape par étape dans la création de v
 
 ➡️ Étape 1: Accédez à la page [Démarrer](https://www.archimedesdata.fr/demarrer/) et cliquez sur [Demandez un compte](https://archimedes.loris.ca/?page=request)
 
-![img_1.png](img_1.png)
-➡️ Une nouvelle fenêtre s’ouvrira avec le formulaire de demande de compte.
+![img_1.png](img_1.png)  
+  
+➡️ Une nouvelle fenêtre s’ouvrira avec le formulaire de demande de compte
 
-➡️  Étape 2 : Remplissez le formulaire et acceptez les conditions d’utilisation (vous pouvez consulter les détails en cliquant sur le lien correspondant).
+➡️  Étape 2: Remplissez le formulaire et acceptez les conditions d’utilisation (vous pouvez consulter les détails en cliquant sur le lien correspondant).
 
 <img width="548" height="872" alt="image" src="https://github.com/user-attachments/assets/8c1c76e9-8023-467d-ad00-28146436b923" />
 
 <img width="548" height="288" alt="image" src="https://github.com/user-attachments/assets/0f92d368-f8de-45eb-83c8-017cd2097b8b" />
 
-➡️ Étape 3 : Vous recevrez un courriel confirmant la réception de votre demande de compte.
+➡️ Étape 3: Vous recevrez un courriel confirmant la réception de votre demande de compte
 
 <img width="631" height="411" alt="image" src="https://github.com/user-attachments/assets/9dda4bfa-16af-4c71-91bc-401d94da06bf" />
 
-➡️ Étape 4 : Consultez votre boîte de réception institutionnelle.
+➡️ Étape 4: Consultez votre boîte de réception institutionnelle
  
 * Si votre établissement a déjà conclu un DCA, l’équipe ARCHIMEDES vous fournira les instructions nécessaires à l’activation de votre compte.  
 * Si votre établissement n’a pas encore conclu de DCA, l’équipe ARCHIMEDES collaborera avec la personne habilitée à signer les ententes au nom de votre établissement afin d’en établir un avant l’approbation de votre compte.
@@ -31,5 +32,26 @@ Dans cette section, nous vous guiderons étape par étape dans la création de v
 Les utilisateurs qui ne sont pas des chercheurs principaux (CP) ne peuvent pas créer eux-mêmes un compte [ARCHIMEDES](https://www.archimedesdata.fr/). Pour obtenir un accès, ils doivent être invités par un CP et recevoir un code d’invitation leur permettant de rejoindre un projet existant.
 
 Une fois le projet du CP rejoint, les utilisateurs invités pourront soit partager des données dans le cadre du projet, soit accéder aux données à accès contrôlé, selon les autorisations qui leur auront été attribuées.
+
+### Comment inviter un ou plusieurs collaborateurs à votre projet?
+
+➡️ Étape 1: À partir du tableau de bord, accédez à l’onglet _Admin_, puis sélectionnez _User Accounts_  
+
+![invitenon_pi_1](images/invitenon_pi_step1.png)  
+
+➡️ Étape 2: Cliquez sur _Invite Users_  
+
+![step2](images/invitenon_pi_step2.png)    
+
+➡️ Étape 3: Une fenêtre _Invite Users_ s’affichera. Remplissez les champs obligatoires avec les renseignements du collaborateur, puis cliquez sur _Submit_ pour envoyer l’invitation.  
+  
+![step3](images/invitenon_pi_step3.png)  
+
+➡️ Que se passe-t-il ensuite ?
+
+Le collaborateur recevra deux courriels:  
+  
+- Le premier courriel l’informera de son invitation à rejoindre votre projet sur le portail de données ARCHIMEDES.
+- Le deuxième lui fournira un mot de passe temporaire ainsi que les instructions pour le réinitialiser et en créer un nouveau.
 
 
