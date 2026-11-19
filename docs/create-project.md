@@ -21,7 +21,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️  Click _Next_.
 
-![img_4.png](img_4.png)
+![projectrequest](images/createnewproject.png)
 
 ➡️ Agree to the Data Contributor Terms of Use and click on _Agree & Create New Project_.
 
@@ -31,7 +31,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ The project will be registered and a confirmation window will open displaying a unique **Request ID** and a link to complete the Data Contribution Form (DCF). A confirmation email will also be sent containing this information.
 
-![img_8.png](img_8.png)
+![createprojectwindow.png](images/createprojectwindow.png)
 
 ➡️ Complete the DCF [MS form link](https://forms.office.com/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWqZhQKT6f7FMsuYEY64tJaNUNUlDMkk5OFI5RFZPU1JEWDJVN1VSNldMNS4u).
 
@@ -41,7 +41,7 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ From the dashboard, you can track the status of your Project Request under _Project Requests_. Click on the status to view additional details.
 
-![img_9.png](img_9.png){ .center }
+![PRstatus.png](images/projectrequeststatus.png){ .center }
 
 ➡️ Approval status will be updated in a timely matter. 
 
@@ -49,9 +49,9 @@ There are two main steps to create a new project, submit a **Data Contribution F
 
 ➡️ You can then log in to access your project on the platform.
 
-➡️ Click on the status (_DCF Approved_) and proceed to the next step.  
+➡️ Click on the status (_Full Approval_) and proceed to the next step.  
 
-![img_10.png](img_10.png){ .center }  
+![PRFA](images/PRFA.png){ .center }  
 
 ![Project creation](images/Projectcreation_dcfapproval.png){ width=700 .center }
 
@@ -138,6 +138,10 @@ The example below shows the Imaging form, which is required when Imaging is sele
 
 ![img_21.png](img_21.png)
 
-⏳ Your Project Creation is now under administrative review.
+⏳ Your Project Creation is now under administrative review and the status can be track on the dashboard
+
+![prfinalapprovalpending.png](images/prfinalapprovalpending.png){ .center } 
 
 If additional information is required, the ARCHIMEDES team will contact you. Once approved, you will receive an email outlining the next steps.
+
+![prfullapproval](images/prfullapproval.png){ .center } 
