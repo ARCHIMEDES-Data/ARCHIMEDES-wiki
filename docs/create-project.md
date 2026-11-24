@@ -63,7 +63,7 @@ To create a new project, complete the sections below with information about your
 
 Provide the required information about your study, including the study design, participant population, expected number of participants, participant groups, institutional and contact information, session details, and supporting documents (e.g., the study protocol).
 
-![info1](images/info1.png)
+![PC_INFO](images/PC_info.png)
 
 ![img_24.png](img_24.png)
 
@@ -81,7 +81,7 @@ You can either go back and complete the missing information or continue through 
 
 ![steptofix](images/steptofix.png)
 
-![steptofix2](images/steptofix_2.png)
+![steptofix2](images/pcfix.png)
 
 Once all required information has been provided, a ✅ will appear.
 
@@ -136,7 +136,7 @@ The example below shows the Imaging form, which is required when Imaging is sele
 
 ![img_20.png](img_20.png)
 
-![img_21.png](img_21.png)
+![pcsubmission](images/PC_Submreceived.png)
 
 ⏳ Your Project Creation is now under administrative review and the status can be track on the dashboard
 
